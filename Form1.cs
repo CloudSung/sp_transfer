@@ -34,7 +34,8 @@ namespace sp_transfer
             //getExcelFile();
 
             Debug.WriteLine("Test2321213124");
-            GetASC();
+            string ASCode = GetASC("TSMC");
+            Console.WriteLine(ASCode);
         }
 
         public static void getExcelFile()
@@ -128,22 +129,17 @@ namespace sp_transfer
 
         private string GetASC(string supplierName)
         {
-
-            string strTsmc = "TSMC";
+            string strTsmc = supplierName;
             string ASCStr = System.IO.File.ReadAllText(@"../../ASC.txt");
             string LastValue = "";
-
 
             var MyClassList =JsonConvert.DeserializeObject<List<RootObject>>(ASCStr);
 
             var MyClass = MyClassList.Where(p => p.VendorName == strTsmc).FirstOrDefault();
             if (MyClass!=null)
             {
-                LastValue = MyClass.VendorNo;
+                LastValue = MyClass.AppleVendorCode;
             }
-
-
-            Console.WriteLine(LastValue);
             return LastValue;
 
         }
