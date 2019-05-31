@@ -120,23 +120,71 @@ namespace sp_transfer
         public class RootObject
         {
             public string VendorName { get; set; }
-            public object VendorNo { get; set; }
+            public string VendorNo { get; set; }
             public string AppleVendorCode { get; set; }
             public string UpdateTimestamp { get; set; }
         }
 
 
-        private void GetASC(){
-            string ASCStr = System.IO.File.ReadAllText(@"../../ASC.txt");
-            //Console.WriteLine(ASCStr);
+        private void GetASC()
+        {
 
-            //var result = JsonConvert.DeserializeObject<List<RootObject>>(ASCStr);            
-            //Console.WriteLine(result);
+            string strTsmc = "TSMC";
+            string ASCStr = System.IO.File.ReadAllText(@"../../ASC.txt");
+            string LastValue = "";
+
+
+            var MyClassList =JsonConvert.DeserializeObject<List<RootObject>>(ASCStr);
+
+            var MyClass = MyClassList.Where(p => p.VendorName == strTsmc).FirstOrDefault();
+            if (MyClass!=null)
+            {
+                LastValue = MyClass.VendorNo;
+            }
+
+
+            Console.WriteLine(LastValue);
+            
 
             //JArray ASC_Ary = JArray.Parse(ASCStr);
-            //Console.WriteLine(ASC_Ary.ToString());
-            JObject ASC_Dict = JObject.Parse(ASCStr);
-            Console.WriteLine(ASC_Dict.ToString());
+            ////Console.WriteLine(ASC_Ary.ToString());
+
+
+            //foreach (JObject dict in ASC_Ary)
+            //{
+
+            //    //Console.WriteLine(dict);
+            //    bool isMe = false;
+
+            //    foreach (var kv in dict)
+            //    {
+            //        string kvKey = kv.Key;
+            //        if (kvKey == "VendorName")
+            //        {
+            //            string kvValue = kv.Value.ToString();
+            //            if (kvValue == "JSCC") {
+            //                isMe = true;
+            //            }
+                        
+            //        }
+
+            //        if (isMe && kvKey== "AppleVendorCode")
+            //        {
+            //            LastValue= kv.Value.ToString();
+            //            isMe = false;
+            //        }
+            //        //Console.WriteLine(kv.Key + ":" + kv.Value);
+            //    }
+            //}
+
+            //Console.WriteLine(LastValue);
+
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            
         }
     }
 }
