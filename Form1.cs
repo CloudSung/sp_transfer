@@ -126,7 +126,7 @@ namespace sp_transfer
         }
 
 
-        private void GetASC()
+        private string GetASC(string supplierName)
         {
 
             string strTsmc = "TSMC";
@@ -144,41 +144,7 @@ namespace sp_transfer
 
 
             Console.WriteLine(LastValue);
-            
-
-            //JArray ASC_Ary = JArray.Parse(ASCStr);
-            ////Console.WriteLine(ASC_Ary.ToString());
-
-
-            //foreach (JObject dict in ASC_Ary)
-            //{
-
-            //    //Console.WriteLine(dict);
-            //    bool isMe = false;
-
-            //    foreach (var kv in dict)
-            //    {
-            //        string kvKey = kv.Key;
-            //        if (kvKey == "VendorName")
-            //        {
-            //            string kvValue = kv.Value.ToString();
-            //            if (kvValue == "JSCC") {
-            //                isMe = true;
-            //            }
-                        
-            //        }
-
-            //        if (isMe && kvKey== "AppleVendorCode")
-            //        {
-            //            LastValue= kv.Value.ToString();
-            //            isMe = false;
-            //        }
-            //        //Console.WriteLine(kv.Key + ":" + kv.Value);
-            //    }
-            //}
-
-            //Console.WriteLine(LastValue);
-
+            return LastValue;
 
         }
 
