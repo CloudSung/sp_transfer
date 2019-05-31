@@ -1,600 +1,3602 @@
-{"OEM Vendor Name":"BROADWAY PACKAGING (HK)","OEM Vendor No":"VBP001","Apple Vendor Code":"001212M","Update Timestamp":""},
-{"OEM Vendor Name":"CASETEK COMPUTER (SUZHOU) CO.,LTD.","OEM Vendor No":"7174654971","Apple Vendor Code":"004276M","Update Timestamp":""},
-{"OEM Vendor Name":"CHEMI-CON INC.","OEM Vendor No":"VHC051","Apple Vendor Code":"000864M","Update Timestamp":""},
-{"OEM Vendor Name":"CHEMI-CON INC.","OEM Vendor No":"VHK0010559","Apple Vendor Code":"000864M","Update Timestamp":""},
-{"OEM Vendor Name":"CHUNG MING INTERNATIONAL LTD.","OEM Vendor No":"VCM491","Apple Vendor Code":"004485M","Update Timestamp":""},
-{"OEM Vendor Name":"CIRRUS LOGIC INC.","OEM Vendor No":"VUS0010186","Apple Vendor Code":"002076M","Update Timestamp":""},
-{"OEM Vendor Name":"CIRRUS LOGIC INC.","OEM Vendor No":"VCL051","Apple Vendor Code":"002076M","Update Timestamp":""},
-{"OEM Vendor Name":"CLC","OEM Vendor No":"VCN0016509","Apple Vendor Code":"002323M","Update Timestamp":""},
-{"OEM Vendor Name":"CLC","OEM Vendor No":"VCN0019898","Apple Vendor Code":"002323M","Update Timestamp":""},
-{"OEM Vendor Name":"CLC","OEM Vendor No":"79625876X1","Apple Vendor Code":"002323M","Update Timestamp":""},
-{"OEM Vendor Name":"CLC","OEM Vendor No":"6947239900","Apple Vendor Code":"002323M","Update Timestamp":""},
-{"OEM Vendor Name":"COILCRAFT","OEM Vendor No":"VCH001","Apple Vendor Code":"000167M","Update Timestamp":""},
-{"OEM Vendor Name":"COILCRAFT","OEM Vendor No":"VVG0010030","Apple Vendor Code":"000167M","Update Timestamp":""},
-{"OEM Vendor Name":"COMPEQ","OEM Vendor No":"VCM001","Apple Vendor Code":"001357M","Update Timestamp":""},
-{"OEM Vendor Name":"COSMO","OEM Vendor No":"VCL361","Apple Vendor Code":"003957M","Update Timestamp":""},
-{"OEM Vendor Name":"CYNTEC","OEM Vendor No":"VCI651","Apple Vendor Code":"003226M","Update Timestamp":""},
-{"OEM Vendor Name":"CYNTEC","OEM Vendor No":"VCI651_CYNTEC","Apple Vendor Code":"003226M","Update Timestamp":""},
-{"OEM Vendor Name":"CYNTEC","OEM Vendor No":"VVG0010031","Apple Vendor Code":"003226M","Update Timestamp":""},
-{"OEM Vendor Name":"Career","OEM Vendor No":"VTW0011354","Apple Vendor Code":"003856M","Update Timestamp":""},
-{"OEM Vendor Name":"Career","OEM Vendor No":"VCT671","Apple Vendor Code":"003856M","Update Timestamp":""},
-{"OEM Vendor Name":"Catcher","OEM Vendor No":"9756431411","Apple Vendor Code":"003241M","Update Timestamp":""},
-{"OEM Vendor Name":"Catcher","OEM Vendor No":"7855562271","Apple Vendor Code":"003241M","Update Timestamp":""},
-{"OEM Vendor Name":"Catcher","OEM Vendor No":"7272795321","Apple Vendor Code":"003241M","Update Timestamp":""},
-{"OEM Vendor Name":"Cateron","OEM Vendor No":"VCN0018601","Apple Vendor Code":"004137M","Update Timestamp":""},
-{"OEM Vendor Name":"Cateron","OEM Vendor No":"7230383441","Apple Vendor Code":"004137M","Update Timestamp":""},
-{"OEM Vendor Name":"Ceratech","OEM Vendor No":"VCC161","Apple Vendor Code":"001734M","Update Timestamp":""},
-{"OEM Vendor Name":"Ceratech","OEM Vendor No":"64917951","Apple Vendor Code":"001734M","Update Timestamp":""},
-{"OEM Vendor Name":"Changyun","OEM Vendor No":"VCN0020251","Apple Vendor Code":"004334M","Update Timestamp":""},
-{"OEM Vendor Name":"Changyun","OEM Vendor No":"7546039831","Apple Vendor Code":"004334M","Update Timestamp":""},
-{"OEM Vendor Name":"CymMetrik","OEM Vendor No":"6189099531","Apple Vendor Code":"004036M","Update Timestamp":""},
-{"OEM Vendor Name":"CymMetrik","OEM Vendor No":"6189099530","Apple Vendor Code":"004036M","Update Timestamp":""},
-{"OEM Vendor Name":"CymMetrik","OEM Vendor No":"VCN0021551","Apple Vendor Code":"004036M","Update Timestamp":""},
-{"OEM Vendor Name":"Cyntec","OEM Vendor No":"VCI651_YOKOHAMA","Apple Vendor Code":"004176M","Update Timestamp":""},
-{"OEM Vendor Name":"DA-DING","OEM Vendor No":"41192644A1","Apple Vendor Code":"003924M","Update Timestamp":""},
-{"OEM Vendor Name":"DA-DING","OEM Vendor No":"VDD991","Apple Vendor Code":"003924M","Update Timestamp":""},
-{"OEM Vendor Name":"DARFON","OEM Vendor No":"7311213591","Apple Vendor Code":"003189M","Update Timestamp":""},
-{"OEM Vendor Name":"DARFON","OEM Vendor No":"V133F1","Apple Vendor Code":"003189M","Update Timestamp":""},
-{"OEM Vendor Name":"DARFON ELECTRONICS","OEM Vendor No":"7168050151","Apple Vendor Code":"003189M","Update Timestamp":""},
-{"OEM Vendor Name":"DARFON ELECTRONICS CORP.","OEM Vendor No":"VDE091","Apple Vendor Code":"003189M","Update Timestamp":""},
-{"OEM Vendor Name":"DARFON ELECTRONICS CORPORATION - 003189M","OEM Vendor No":"VCN0017121","Apple Vendor Code":"003189M","Update Timestamp":""},
-{"OEM Vendor Name":"DELTA","OEM Vendor No":"VDE041","Apple Vendor Code":"000221M","Update Timestamp":""},
-{"OEM Vendor Name":"DIODES","OEM Vendor No":"VDH021","Apple Vendor Code":"002358M","Update Timestamp":""},
-{"OEM Vendor Name":"DONGGUAN DONNELLEY PRINTING CO.LTD.","OEM Vendor No":"VDD051","Apple Vendor Code":"002433M","Update Timestamp":""},
-{"OEM Vendor Name":"DYNAPACK","OEM Vendor No":"VDI001","Apple Vendor Code":"003997M","Update Timestamp":""},
-{"OEM Vendor Name":"RI-TENG","OEM Vendor No":"VRT181","Apple Vendor Code":"004309M","Update Timestamp":""},
-{"OEM Vendor Name":"RI-TENG COMPUTER ACCESSORY (SHANGHAI) CO.,LTD","OEM Vendor No":"VCN0017903","Apple Vendor Code":"004309M","Update Timestamp":""},
-{"OEM Vendor Name":"ROHM","OEM Vendor No":"VRE141","Apple Vendor Code":"000678M","Update Timestamp":""},
-{"OEM Vendor Name":"ROHM","OEM Vendor No":"2244881301","Apple Vendor Code":"000678M","Update Timestamp":""},
-{"OEM Vendor Name":"ROHM","OEM Vendor No":"VTW0011433","Apple Vendor Code":"000678M","Update Timestamp":""},
-{"OEM Vendor Name":"RYPAX","OEM Vendor No":"8100544821","Apple Vendor Code":"004575M","Update Timestamp":""},
-{"OEM Vendor Name":"SAMSUNG","OEM Vendor No":"VDS211","Apple Vendor Code":"000695M","Update Timestamp":""},
-{"OEM Vendor Name":"SAMSUNG","OEM Vendor No":"VSE311","Apple Vendor Code":"000931M","Update Timestamp":""},
-{"OEM Vendor Name":"SAMSUNG-EMC","OEM Vendor No":"VCN0016400","Apple Vendor Code":"000695M","Update Timestamp":""},
-{"OEM Vendor Name":"SAMTEC","OEM Vendor No":"VSA161","Apple Vendor Code":"000696M","Update Timestamp":""},
-{"OEM Vendor Name":"SANSHIN(JAE)","OEM Vendor No":"V85021","Apple Vendor Code":"000400M","Update Timestamp":""},
-{"OEM Vendor Name":"SANYO","OEM Vendor No":"5023090891","Apple Vendor Code":"000705M","Update Timestamp":""},
-{"OEM Vendor Name":"SANYO","OEM Vendor No":"VHK0010383","Apple Vendor Code":"000705M","Update Timestamp":""},
-{"OEM Vendor Name":"SANYO","OEM Vendor No":"VSE051","Apple Vendor Code":"000705M","Update Timestamp":""},
-{"OEM Vendor Name":"SATORI","OEM Vendor No":"VSA051_NEC","Apple Vendor Code":"000550M","Update Timestamp":""},
-{"OEM Vendor Name":"SEAGATE","OEM Vendor No":"VUS0010120_SEAGATE","Apple Vendor Code":"000716M","Update Timestamp":""},
-{"OEM Vendor Name":"SIAU CHON","OEM Vendor No":"7424816081","Apple Vendor Code":"004337M","Update Timestamp":""},
-{"OEM Vendor Name":"SIAU CHOU","OEM Vendor No":"VCN0017147","Apple Vendor Code":"004337M","Update Timestamp":""},
-{"OEM Vendor Name":"SINGHOME","OEM Vendor No":"6177633230","Apple Vendor Code":"005213M","Update Timestamp":""},
-{"OEM Vendor Name":"SMK ELECTRONICS -","OEM Vendor No":"VUS0010345","Apple Vendor Code":"000750M","Update Timestamp":""},
-{"OEM Vendor Name":"SMK ELECTRONICS -","OEM Vendor No":"VSE3B1","Apple Vendor Code":"000750M","Update Timestamp":""},
-{"OEM Vendor Name":"SMSC","OEM Vendor No":"VIE0010009","Apple Vendor Code":"004042M","Update Timestamp":""},
-{"OEM Vendor Name":"SMSC","OEM Vendor No":"VMT311","Apple Vendor Code":"004042M","Update Timestamp":""},
-{"OEM Vendor Name":"SMSC","OEM Vendor No":"VSM161","Apple Vendor Code":"004042M","Update Timestamp":""},
-{"OEM Vendor Name":"SMSC","OEM Vendor No":"9000031011","Apple Vendor Code":"004042M","Update Timestamp":""},
-{"OEM Vendor Name":"SMSC","OEM Vendor No":"VST961","Apple Vendor Code":"004042M","Update Timestamp":""},
-{"OEM Vendor Name":"SOLECTRON","OEM Vendor No":"VSSS61","Apple Vendor Code":"000756M","Update Timestamp":""},
-{"OEM Vendor Name":"SONY CORPORATION OF HONG KONG LTD.","OEM Vendor No":"VSC191","Apple Vendor Code":"004377M","Update Timestamp":""},
-{"OEM Vendor Name":"ST","OEM Vendor No":"VSA141","Apple Vendor Code":"000729M","Update Timestamp":""},
-{"OEM Vendor Name":"ST","OEM Vendor No":"VSG0010131","Apple Vendor Code":"000729M","Update Timestamp":""},
-{"OEM Vendor Name":"STEWARD","OEM Vendor No":"VSP011","Apple Vendor Code":"000203M","Update Timestamp":""},
-{"OEM Vendor Name":"SUNON","OEM Vendor No":"VSE251","Apple Vendor Code":"003000M","Update Timestamp":""},
-{"OEM Vendor Name":"SUNON","OEM Vendor No":"7222649211","Apple Vendor Code":"003000M","Update Timestamp":""},
-{"OEM Vendor Name":"SUPERMAX CO.LTD.","OEM Vendor No":"VSC961","Apple Vendor Code":"004335M","Update Timestamp":""},
-{"OEM Vendor Name":"Samsung","OEM Vendor No":"VIE0010018","Apple Vendor Code":"000695M","Update Timestamp":""},
-{"OEM Vendor Name":"Sandisk Corporation","OEM Vendor No":"VUS0010120_SANDISK","Apple Vendor Code":"003967M","Update Timestamp":""},
-{"OEM Vendor Name":"ShenZhen Broadway Packing Co.,Ltd","OEM Vendor No":"VCN0013669","Apple Vendor Code":"001212M","Update Timestamp":""},
-{"OEM Vendor Name":"ShenZhen Broadway Packing Co.,Ltd","OEM Vendor No":"7904550171","Apple Vendor Code":"001212M","Update Timestamp":""},
-{"OEM Vendor Name":"Shimano＿＿Inc＿＿-＿＿","OEM Vendor No":"VPC033","Apple Vendor Code":"004354M","Update Timestamp":""},
-{"OEM Vendor Name":"Shin Zu Shing","OEM Vendor No":"35702345A1","Apple Vendor Code":"004127M","Update Timestamp":""},
-{"OEM Vendor Name":"Shin Zu Shing","OEM Vendor No":"VCN0020570","Apple Vendor Code":"004127M","Update Timestamp":""},
-{"OEM Vendor Name":"Simplo","OEM Vendor No":"VTW0011421","Apple Vendor Code":"004031M","Update Timestamp":""},
-{"OEM Vendor Name":"Simplo","OEM Vendor No":"VCN0021833","Apple Vendor Code":"004031M","Update Timestamp":""},
-{"OEM Vendor Name":"Simplo","OEM Vendor No":"VST521","Apple Vendor Code":"004031M","Update Timestamp":""},
-{"OEM Vendor Name":"Speedtech","OEM Vendor No":"VST791","Apple Vendor Code":"003794M","Update Timestamp":""},
-{"OEM Vendor Name":"Sunrex","OEM Vendor No":"7244412151","Apple Vendor Code":"003763M","Update Timestamp":""},
-{"OEM Vendor Name":"Sunrex","OEM Vendor No":"VSTS61","Apple Vendor Code":"003763M","Update Timestamp":""},
-{"OEM Vendor Name":"Sunrex Technology Corp - 003763M","OEM Vendor No":"VCN0016418","Apple Vendor Code":"003763M","Update Timestamp":""},
-{"OEM Vendor Name":"Superworld","OEM Vendor No":"VSES01","Apple Vendor Code":"003832M","Update Timestamp":""},
-{"OEM Vendor Name":"Superworld","OEM Vendor No":"VSG0010037","Apple Vendor Code":"003832M","Update Timestamp":""},
-{"OEM Vendor Name":"Superworld","OEM Vendor No":"VSG0010037","Apple Vendor Code":"004495M","Update Timestamp":""},
-{"OEM Vendor Name":"Superworld","OEM Vendor No":"VSES01","Apple Vendor Code":"004495M","Update Timestamp":""},
-{"OEM Vendor Name":"Suyin","OEM Vendor No":"VSC541","Apple Vendor Code":"002327M","Update Timestamp":""},
-{"OEM Vendor Name":"Suyin","OEM Vendor No":"VTW0010761","Apple Vendor Code":"002327M","Update Timestamp":""},
-{"OEM Vendor Name":"Suzhou Panel","OEM Vendor No":"VCN0022252","Apple Vendor Code":"004087M","Update Timestamp":""},
-{"OEM Vendor Name":"Suzhou Panel","OEM Vendor No":"7395516361","Apple Vendor Code":"004087M","Update Timestamp":""},
-{"OEM Vendor Name":"TAIWAN POWDER","OEM Vendor No":"VTP161","Apple Vendor Code":"004216M","Update Timestamp":""},
-{"OEM Vendor Name":"TAIWAN SUMIDA ELECTRONICS INC.","OEM Vendor No":"VTS251","Apple Vendor Code":"001542M","Update Timestamp":""},
-{"OEM Vendor Name":"TAIYO","OEM Vendor No":"VTW0011428","Apple Vendor Code":"000807M","Update Timestamp":""},
-{"OEM Vendor Name":"TAIYO","OEM Vendor No":"VTT021","Apple Vendor Code":"000807M","Update Timestamp":""},
-{"OEM Vendor Name":"TDK","OEM Vendor No":"VHK0010312","Apple Vendor Code":"000811M","Update Timestamp":""},
-{"OEM Vendor Name":"TDK","OEM Vendor No":"VTH111","Apple Vendor Code":"000811M","Update Timestamp":""},
-{"OEM Vendor Name":"THIN FILM TECHNOLOGY","OEM Vendor No":"VTF211","Apple Vendor Code":"004175M","Update Timestamp":""},
-{"OEM Vendor Name":"TOKO","OEM Vendor No":"VCN0019441","Apple Vendor Code":"001718M","Update Timestamp":""},
-{"OEM Vendor Name":"TOKO","OEM Vendor No":"VHK0010537","Apple Vendor Code":"001718M","Update Timestamp":""},
-{"OEM Vendor Name":"TOKO","OEM Vendor No":"VTE681","Apple Vendor Code":"001718M","Update Timestamp":""},
-{"OEM Vendor Name":"TOKUTSU","OEM Vendor No":"VTT791","Apple Vendor Code":"000401M","Update Timestamp":""},
-{"OEM Vendor Name":"TOYO","OEM Vendor No":"VCN0019441","Apple Vendor Code":"003254M","Update Timestamp":""},
-{"OEM Vendor Name":"TPK","OEM Vendor No":"VTW0011611","Apple Vendor Code":"004249M","Update Timestamp":""},
-{"OEM Vendor Name":"TPK","OEM Vendor No":"5300693101","Apple Vendor Code":"004249M","Update Timestamp":""},
-{"OEM Vendor Name":"TRIPOD","OEM Vendor No":"VTO081","Apple Vendor Code":"002465M","Update Timestamp":""},
-{"OEM Vendor Name":"TXC","OEM Vendor No":"V05CJ1","Apple Vendor Code":"002435M","Update Timestamp":""},
-{"OEM Vendor Name":"TXC","OEM Vendor No":"VTW0011457","Apple Vendor Code":"002435M","Update Timestamp":""},
-{"OEM Vendor Name":"TYCO","OEM Vendor No":"VTE201","Apple Vendor Code":"002056M","Update Timestamp":""},
-{"OEM Vendor Name":"TYCO","OEM Vendor No":"VTE401_RAYCHEM","Apple Vendor Code":"001182M","Update Timestamp":""},
-{"OEM Vendor Name":"TYCO","OEM Vendor No":"VTE401_TYCO","Apple Vendor Code":"002056M","Update Timestamp":""},
-{"OEM Vendor Name":"TYCO","OEM Vendor No":"VTE401_TE","Apple Vendor Code":"001182M","Update Timestamp":""},
-{"OEM Vendor Name":"Tai Yi","OEM Vendor No":"VHC331","Apple Vendor Code":"002321M","Update Timestamp":""},
-{"OEM Vendor Name":"Tai Yi","OEM Vendor No":"VCN0018886","Apple Vendor Code":"002321M","Update Timestamp":""},
-{"OEM Vendor Name":"Tai Yi","OEM Vendor No":"7310995501","Apple Vendor Code":"002321M","Update Timestamp":""},
-{"OEM Vendor Name":"Tennrich Technology","OEM Vendor No":"7168475302","Apple Vendor Code":"003059M","Update Timestamp":""},
-{"OEM Vendor Name":"Tennrich Technology","OEM Vendor No":"VCN0019718","Apple Vendor Code":"003059M","Update Timestamp":""},
-{"OEM Vendor Name":"Topo Tech ( Catcher )","OEM Vendor No":"VTT731","Apple Vendor Code":"003241M","Update Timestamp":""},
-{"OEM Vendor Name":"Toshiba","OEM Vendor No":"VTE151","Apple Vendor Code":"000841M","Update Timestamp":""},
-{"OEM Vendor Name":"Toshiba","OEM Vendor No":"VTD011","Apple Vendor Code":"000841M","Update Timestamp":""},
-{"OEM Vendor Name":"Tripod","OEM Vendor No":"VTT2A1","Apple Vendor Code":"002465M","Update Timestamp":""},
-{"OEM Vendor Name":"ULTRA SOURCE","OEM Vendor No":"VUS051_PANASONIC","Apple Vendor Code":"000593M","Update Timestamp":""},
-{"OEM Vendor Name":"UNIVERSAL (USI )","OEM Vendor No":"VCN0018693","Apple Vendor Code":"002261M","Update Timestamp":""},
-{"OEM Vendor Name":"UNIVERSAL (USI )","OEM Vendor No":"VUS091","Apple Vendor Code":"002261M","Update Timestamp":""},
-{"OEM Vendor Name":"VITALO","OEM Vendor No":"7083086761","Apple Vendor Code":"004576M","Update Timestamp":""},
-{"OEM Vendor Name":"VITALO","OEM Vendor No":"7083086760","Apple Vendor Code":"004576M","Update Timestamp":""},
-{"OEM Vendor Name":"Volex","OEM Vendor No":"VCN0021986","Apple Vendor Code":"000484M","Update Timestamp":""},
-{"OEM Vendor Name":"Volex","OEM Vendor No":"VVC141","Apple Vendor Code":"000484M","Update Timestamp":""},
-{"OEM Vendor Name":"Volex","OEM Vendor No":"6188966891","Apple Vendor Code":"000484M","Update Timestamp":""},
-{"OEM Vendor Name":"WEIKENG","OEM Vendor No":"V89051_IR","Apple Vendor Code":"000386M","Update Timestamp":""},
-{"OEM Vendor Name":"WEIKENG","OEM Vendor No":"V89051_SILEGO","Apple Vendor Code":"004285M","Update Timestamp":""},
-{"OEM Vendor Name":"WPI","OEM Vendor No":"V850K1_TI","Apple Vendor Code":"000822M","Update Timestamp":""},
-{"OEM Vendor Name":"WPI","OEM Vendor No":"V850K1_TOSHIBA","Apple Vendor Code":"000841M","Update Timestamp":""},
-{"OEM Vendor Name":"WPI","OEM Vendor No":"V850K1_SILICONIX","Apple Vendor Code":"000743M","Update Timestamp":""},
-{"OEM Vendor Name":"WPI","OEM Vendor No":"V850K1_NS","Apple Vendor Code":"000544M","Update Timestamp":""},
-{"OEM Vendor Name":"WPI","OEM Vendor No":"V850K1_VISHAY","Apple Vendor Code":"000213M","Update Timestamp":""},
-{"OEM Vendor Name":"WT","OEM Vendor No":"VWM121_IR","Apple Vendor Code":"000386M","Update Timestamp":""},
-{"OEM Vendor Name":"WT","OEM Vendor No":"VWM121_TI","Apple Vendor Code":"000822M","Update Timestamp":""},
-{"OEM Vendor Name":"DYNAPACK","OEM Vendor No":"VTW0011481","Apple Vendor Code":"003997M","Update Timestamp":""},
-{"OEM Vendor Name":"DYnamic Electronics","OEM Vendor No":"VDE231","Apple Vendor Code":"004391M","Update Timestamp":""},
-{"OEM Vendor Name":"DaDing","OEM Vendor No":"VCN0017581","Apple Vendor Code":"003924M","Update Timestamp":""},
-{"OEM Vendor Name":"Dahsing ( KOA )","OEM Vendor No":"VDH051_KOA","Apple Vendor Code":"000435M","Update Timestamp":""},
-{"OEM Vendor Name":"Dongguan Yafeng Computer","OEM Vendor No":"7259870171","Apple Vendor Code":"004294M","Update Timestamp":""},
-{"OEM Vendor Name":"EASTGATE TECHNOLOGY PTE","OEM Vendor No":"VMT271","Apple Vendor Code":"001593M","Update Timestamp":""},
-{"OEM Vendor Name":"EPSON","OEM Vendor No":"VTW0011379","Apple Vendor Code":"001404M","Update Timestamp":""},
-{"OEM Vendor Name":"EPSON","OEM Vendor No":"V05JD1","Apple Vendor Code":"001404M","Update Timestamp":""},
-{"OEM Vendor Name":"Epic Music","OEM Vendor No":"VSE731","Apple Vendor Code":"003861M","Update Timestamp":""},
-{"OEM Vendor Name":"Epic Music ( Sony )","OEM Vendor No":"7109380361","Apple Vendor Code":"003861M","Update Timestamp":""},
-{"OEM Vendor Name":"Evergreen","OEM Vendor No":"7701767231","Apple Vendor Code":"000939M","Update Timestamp":""},
-{"OEM Vendor Name":"FEEL CHERNG","OEM Vendor No":"VFC191_ITTI","Apple Vendor Code":"003998M","Update Timestamp":""},
-{"OEM Vendor Name":"FORTUNE","OEM Vendor No":"0507448841","Apple Vendor Code":"003863M","Update Timestamp":""},
-{"OEM Vendor Name":"FORTUNE","OEM Vendor No":"VCN0018913","Apple Vendor Code":"003863M","Update Timestamp":""},
-{"OEM Vendor Name":"FOXCONN","OEM Vendor No":"70842022X0","Apple Vendor Code":"000295M","Update Timestamp":""},
-{"OEM Vendor Name":"FOXCONN ( Altus )","OEM Vendor No":"7261719171","Apple Vendor Code":"000295M","Update Timestamp":""},
-{"OEM Vendor Name":"FOXCONN ( Altus )","OEM Vendor No":"VHH051","Apple Vendor Code":"000295M","Update Timestamp":""},
-{"OEM Vendor Name":"FOXCONN ( Altus )","OEM Vendor No":"283665091","Apple Vendor Code":"000295M","Update Timestamp":""},
-{"OEM Vendor Name":"FOXCONN ( MAC2)","OEM Vendor No":"7896988552","Apple Vendor Code":"000295M","Update Timestamp":""},
-{"OEM Vendor Name":"FOXCONN ( MAC2)","OEM Vendor No":"7896988551","Apple Vendor Code":"000295M","Update Timestamp":""},
-{"OEM Vendor Name":"FOXCONN( FuZhun)","OEM Vendor No":"7084202201","Apple Vendor Code":"000295M","Update Timestamp":""},
-{"OEM Vendor Name":"FOXCONN(HH)","OEM Vendor No":"ACFT001","Apple Vendor Code":"000295M","Update Timestamp":""},
-{"OEM Vendor Name":"FOXLINK","OEM Vendor No":"VCU041","Apple Vendor Code":"003533M","Update Timestamp":""},
-{"OEM Vendor Name":"FOXLINK","OEM Vendor No":"VCU041","Apple Vendor Code":"003009M","Update Timestamp":""},
-{"OEM Vendor Name":"FOXLINK","OEM Vendor No":"VTW0011313","Apple Vendor Code":"003533M","Update Timestamp":""},
-{"OEM Vendor Name":"FOXLINK","OEM Vendor No":"VTW0011313","Apple Vendor Code":"003009M","Update Timestamp":""},
-{"OEM Vendor Name":"FRD","OEM Vendor No":"2794071811_FRD","Apple Vendor Code":"000089M","Update Timestamp":""},
-{"OEM Vendor Name":"FRONTEK","OEM Vendor No":"VFT191_AOS","Apple Vendor Code":"004265M","Update Timestamp":""},
-{"OEM Vendor Name":"FRONTEK","OEM Vendor No":"VFT191_SEMTECH","Apple Vendor Code":"001786M","Update Timestamp":""},
-{"OEM Vendor Name":"FUJI crystal","OEM Vendor No":"VBC331","Apple Vendor Code":"004403M","Update Timestamp":""},
-{"OEM Vendor Name":"FUJIKURA","OEM Vendor No":"VFH121","Apple Vendor Code":"001582M","Update Timestamp":""},
-{"OEM Vendor Name":"FUJIKURA","OEM Vendor No":"VTW0011397","Apple Vendor Code":"001582M","Update Timestamp":""},
-{"OEM Vendor Name":"FUJIKURA","OEM Vendor No":"VTW0011397","Apple Vendor Code":"001421M","Update Timestamp":""},
-{"OEM Vendor Name":"FUJIKURA","OEM Vendor No":"VFH121","Apple Vendor Code":"001421M","Update Timestamp":""},
-{"OEM Vendor Name":"FUNCTION","OEM Vendor No":"VFT351_SUMIDA","Apple Vendor Code":"001542M","Update Timestamp":""},
-{"OEM Vendor Name":"FURUKAWA","OEM Vendor No":"VFS251","Apple Vendor Code":"000301M","Update Timestamp":""},
-{"OEM Vendor Name":"FURUKAWA SHANGHAI,LTD","OEM Vendor No":"VCN0019876","Apple Vendor Code":"000301M","Update Timestamp":""},
-{"OEM Vendor Name":"Flexium","OEM Vendor No":"VFI391","Apple Vendor Code":"004398M","Update Timestamp":""},
-{"OEM Vendor Name":"Forgrand","OEM Vendor No":"VCN0017098","Apple Vendor Code":"003863M","Update Timestamp":""},
-{"OEM Vendor Name":"Fortune Grand","OEM Vendor No":"7792129031","Apple Vendor Code":"003863M","Update Timestamp":""},
-{"OEM Vendor Name":"Fortune Grand","OEM Vendor No":"VFI351","Apple Vendor Code":"003863M","Update Timestamp":""},
-{"OEM Vendor Name":"Fortune Grand","OEM Vendor No":"7301173231","Apple Vendor Code":"003863M","Update Timestamp":""},
-{"OEM Vendor Name":"Foxconn ( IRIS World )","OEM Vendor No":"VVG0000003","Apple Vendor Code":"000295M","Update Timestamp":""},
-{"OEM Vendor Name":"Foxconn ( IRIS World )","OEM Vendor No":"VIW021","Apple Vendor Code":"000295M","Update Timestamp":""},
-{"OEM Vendor Name":"Foxconn ( QUANYIDA) TECH","OEM Vendor No":"7718864010","Apple Vendor Code":"000295M","Update Timestamp":""},
-{"OEM Vendor Name":"Foxconn (AMBIT )","OEM Vendor No":"7084307431","Apple Vendor Code":"000295M","Update Timestamp":""},
-{"OEM Vendor Name":"Foxconn (BU2 / McEG)","OEM Vendor No":"TOU007","Apple Vendor Code":"000295M","Update Timestamp":""},
-{"OEM Vendor Name":"Foxconn (BU3 / NWING)","OEM Vendor No":"7589889721","Apple Vendor Code":"000295M","Update Timestamp":""},
-{"OEM Vendor Name":"Foxconn (BU3 / NWING)","OEM Vendor No":"VTW0000013","Apple Vendor Code":"000295M","Update Timestamp":""},
-{"OEM Vendor Name":"Foxconn (BU3 / NWING)","OEM Vendor No":"VHH1031","Apple Vendor Code":"000295M","Update Timestamp":""},
-{"OEM Vendor Name":"Foxconn ChampTech.Co. ( Thermal 1)","OEM Vendor No":"ACFT391","Apple Vendor Code":"000295M","Update Timestamp":""},
-{"OEM Vendor Name":"Foxconn FUTAIHUA Precision(Shenzhen)Co.,Ltd","OEM Vendor No":"7992292431","Apple Vendor Code":"000295M","Update Timestamp":""},
-{"OEM Vendor Name":"Freescale Semiconductor Inc.","OEM Vendor No":"2000110731","Apple Vendor Code":"004043M","Update Timestamp":""},
-{"OEM Vendor Name":"GALAXY(GENESYS)","OEM Vendor No":"VTW0011404_GENESYS","Apple Vendor Code":"002272M","Update Timestamp":""},
-{"OEM Vendor Name":"GCE","OEM Vendor No":"VGC011","Apple Vendor Code":"001796M","Update Timestamp":""},
-{"OEM Vendor Name":"GEC","OEM Vendor No":"VAE491_LITTELFUSE","Apple Vendor Code":"000462M","Update Timestamp":""},
-{"OEM Vendor Name":"GMI","OEM Vendor No":"V054W1_TOSHIBA","Apple Vendor Code":"000841M","Update Timestamp":""},
-{"OEM Vendor Name":"GMI","OEM Vendor No":"V054W1_REALTEK","Apple Vendor Code":"004218M","Update Timestamp":""},
-{"OEM Vendor Name":"GREENPOINT","OEM Vendor No":"VSG0010059","Apple Vendor Code":"004563M","Update Timestamp":""},
-{"OEM Vendor Name":"GREENPOINT","OEM Vendor No":"VJC241","Apple Vendor Code":"004563M","Update Timestamp":""},
-{"OEM Vendor Name":"Global Lighting","OEM Vendor No":"6229767441","Apple Vendor Code":"004395M","Update Timestamp":""},
-{"OEM Vendor Name":"Green Point","OEM Vendor No":"VSG0010059","Apple Vendor Code":"004079M","Update Timestamp":""},
-{"OEM Vendor Name":"Green Point","OEM Vendor No":"8193580951","Apple Vendor Code":"004079M","Update Timestamp":""},
-{"OEM Vendor Name":"Green Point","OEM Vendor No":"VSG0010163","Apple Vendor Code":"004079M","Update Timestamp":""},
-{"OEM Vendor Name":"Green Point","OEM Vendor No":"VGP291","Apple Vendor Code":"004563M","Update Timestamp":""},
-{"OEM Vendor Name":"HAS","OEM Vendor No":"VHE201_AVX","Apple Vendor Code":"000073M","Update Timestamp":""},
-{"OEM Vendor Name":"HAS","OEM Vendor No":"VHE201_JOHANSON","Apple Vendor Code":"000405M","Update Timestamp":""},
-{"OEM Vendor Name":"HENKEL ADHESIVE TECHNOLOGIES (HK) LIMITED","OEM Vendor No":"40891","Apple Vendor Code":"000463M","Update Timestamp":""},
-{"OEM Vendor Name":"HGST","OEM Vendor No":"VHG061","Apple Vendor Code":"000348M","Update Timestamp":""},
-{"OEM Vendor Name":"HH","OEM Vendor No":"HONHAIP021","Apple Vendor Code":"000295M","Update Timestamp":""},
-{"OEM Vendor Name":"HIGHLAND(Vishay)","OEM Vendor No":"VHE141_VISHAY","Apple Vendor Code":"000213M","Update Timestamp":""},
-{"OEM Vendor Name":"HIGHLAND(Vishay)","OEM Vendor No":"VTW0011406_VISHAY","Apple Vendor Code":"000213M","Update Timestamp":""},
-{"OEM Vendor Name":"HIROSE ELECT","OEM Vendor No":"VJP0010036","Apple Vendor Code":"000347M","Update Timestamp":""},
-{"OEM Vendor Name":"HIROSE ELECT.","OEM Vendor No":"VHE191","Apple Vendor Code":"000347M","Update Timestamp":""},
-{"OEM Vendor Name":"HITACHI","OEM Vendor No":"VHC231","Apple Vendor Code":"000348M","Update Timestamp":""},
-{"OEM Vendor Name":"HITACHI GLOBAL STORAGE TECHNOLOGIES","OEM Vendor No":"VUS0010120_HGST","Apple Vendor Code":"004642M","Update Timestamp":""},
-{"OEM Vendor Name":"HLDS","OEM Vendor No":"VHK0010554","Apple Vendor Code":"001625M","Update Timestamp":""},
-{"OEM Vendor Name":"HLDS","OEM Vendor No":"VLI111","Apple Vendor Code":"001625M","Update Timestamp":""},
-{"OEM Vendor Name":"HONG CHANG","OEM Vendor No":"VES221","Apple Vendor Code":"004331M","Update Timestamp":""},
-{"OEM Vendor Name":"HONG CHANG ( KSCH )","OEM Vendor No":"7251976051","Apple Vendor Code":"004331M","Update Timestamp":""},
-{"OEM Vendor Name":"HONG CHANG ( KSCH )","OEM Vendor No":"VCN0021730","Apple Vendor Code":"004331M","Update Timestamp":""},
-{"OEM Vendor Name":"HONHAI","OEM Vendor No":"HONHAIP021_FOXCONN","Apple Vendor Code":"000295M","Update Timestamp":""},
-{"OEM Vendor Name":"HOSONIC","OEM Vendor No":"VHE251","Apple Vendor Code":"003775M","Update Timestamp":""},
-{"OEM Vendor Name":"Hama Naka Shoukin","OEM Vendor No":"VCN0016850","Apple Vendor Code":"003894M","Update Timestamp":""},
-{"OEM Vendor Name":"Hama Naka Shoukin","OEM Vendor No":"7251975331","Apple Vendor Code":"003894M","Update Timestamp":""},
-{"OEM Vendor Name":"Highland","OEM Vendor No":"VHE141_VISHAY","Apple Vendor Code":"000773M","Update Timestamp":""},
-{"OEM Vendor Name":"Holy stone","OEM Vendor No":"VHS191","Apple Vendor Code":"004573M","Update Timestamp":""},
-{"OEM Vendor Name":"Huangjyil","OEM Vendor No":"VTW0010623","Apple Vendor Code":"003740M","Update Timestamp":""},
-{"OEM Vendor Name":"Huangjyil","OEM Vendor No":"VHE441","Apple Vendor Code":"003740M","Update Timestamp":""},
-{"OEM Vendor Name":"Hung-Yi-Jing","OEM Vendor No":"7362563671","Apple Vendor Code":"000295M","Update Timestamp":""},
-{"OEM Vendor Name":"Hynix Semiconductor","OEM Vendor No":"VUS0010120_SK HYNIX","Apple Vendor Code":"001161M","Update Timestamp":""},
-{"OEM Vendor Name":"I-PEX","OEM Vendor No":"VIP221","Apple Vendor Code":"003096M","Update Timestamp":""},
-{"OEM Vendor Name":"ICT- LANTO","OEM Vendor No":"VHK0010504","Apple Vendor Code":"004531M","Update Timestamp":""},
-{"OEM Vendor Name":"ICT- LANTO","OEM Vendor No":"2000030991","Apple Vendor Code":"004531M","Update Timestamp":""},
-{"OEM Vendor Name":"INTERNATIONAL PAPER DISTRIBUTI","OEM Vendor No":"VCN0016969","Apple Vendor Code":"003954M","Update Timestamp":""},
-{"OEM Vendor Name":"INTERNATIONAL PAPER MANUFACTURING & DISTRIBUTION","OEM Vendor No":"7000020801","Apple Vendor Code":"000388M","Update Timestamp":""},
-{"OEM Vendor Name":"INTERSIL","OEM Vendor No":"VIC131","Apple Vendor Code":"000387M","Update Timestamp":""},
-{"OEM Vendor Name":"INTRAMEDIA","OEM Vendor No":"VCN0017021","Apple Vendor Code":"002320M","Update Timestamp":""},
-{"OEM Vendor Name":"INTRAMEDIA","OEM Vendor No":"7333382951","Apple Vendor Code":"002320M","Update Timestamp":""},
-{"OEM Vendor Name":"INTRAMEDIA","OEM Vendor No":"7333382950","Apple Vendor Code":"002320M","Update Timestamp":""},
-{"OEM Vendor Name":"IPEX","OEM Vendor No":"VJP0010019","Apple Vendor Code":"003096M","Update Timestamp":""},
-{"OEM Vendor Name":"IPEX","OEM Vendor No":"1025946001","Apple Vendor Code":"003096M","Update Timestamp":""},
-{"OEM Vendor Name":"IPS","OEM Vendor No":"VIP041","Apple Vendor Code":"000385M","Update Timestamp":""},
-{"OEM Vendor Name":"Infenion","OEM Vendor No":"VTW0011136_INFINEON","Apple Vendor Code":"003866M","Update Timestamp":""},
-{"OEM Vendor Name":"Infineon","OEM Vendor No":"VIT081","Apple Vendor Code":"003866M","Update Timestamp":""},
-{"OEM Vendor Name":"Intel","OEM Vendor No":"VUS0010120_INTEL","Apple Vendor Code":"000382M","Update Timestamp":""},
-{"OEM Vendor Name":"Intelec","OEM Vendor No":"VIT051","Apple Vendor Code":"003514M","Update Timestamp":""},
-{"OEM Vendor Name":"JABIL","OEM Vendor No":"VSG0010059","Apple Vendor Code":"002112M","Update Timestamp":""},
-{"OEM Vendor Name":"JABIL","OEM Vendor No":"25649376B1","Apple Vendor Code":"002112M","Update Timestamp":""},
-{"OEM Vendor Name":"JABIL","OEM Vendor No":"7256493760","Apple Vendor Code":"002112M","Update Timestamp":""},
-{"OEM Vendor Name":"JARRLYTEC CO","OEM Vendor No":"VJC261","Apple Vendor Code":"004330M","Update Timestamp":""},
-{"OEM Vendor Name":"JARRLYTEC CO","OEM Vendor No":"VTW0011252","Apple Vendor Code":"004330M","Update Timestamp":""},
-{"OEM Vendor Name":"JEN HAUR","OEM Vendor No":"VJP001","Apple Vendor Code":"002322M","Update Timestamp":""},
-{"OEM Vendor Name":"JEN HAUR","OEM Vendor No":"7461564310","Apple Vendor Code":"002322M","Update Timestamp":""},
-{"OEM Vendor Name":"JIAN SHENG","OEM Vendor No":"6188602130","Apple Vendor Code":"002475M","Update Timestamp":""},
-{"OEM Vendor Name":"JPC","OEM Vendor No":"VJL111","Apple Vendor Code":"004099M","Update Timestamp":""},
-{"OEM Vendor Name":"Jabil","OEM Vendor No":"8193580951","Apple Vendor Code":"004563M","Update Timestamp":""},
-{"OEM Vendor Name":"Jabil","OEM Vendor No":"VSG0010163","Apple Vendor Code":"004563M","Update Timestamp":""},
-{"OEM Vendor Name":"Jen-haur","OEM Vendor No":"VCN0017424","Apple Vendor Code":"002322M","Update Timestamp":""},
-{"OEM Vendor Name":"Jeou Uei","OEM Vendor No":"5627722991","Apple Vendor Code":"003881M","Update Timestamp":""},
-{"OEM Vendor Name":"Jeou Uei","OEM Vendor No":"VCN0019543","Apple Vendor Code":"003881M","Update Timestamp":""},
-{"OEM Vendor Name":"Jeou Uei","OEM Vendor No":"7085096381","Apple Vendor Code":"003881M","Update Timestamp":""},
-{"OEM Vendor Name":"Jiesheng","OEM Vendor No":"7638321711","Apple Vendor Code":"004339M","Update Timestamp":""},
-{"OEM Vendor Name":"KAEDAR","OEM Vendor No":"VKE381","Apple Vendor Code":"004183M","Update Timestamp":""},
-{"OEM Vendor Name":"KAEDAR","OEM Vendor No":"VCN0015714","Apple Vendor Code":"004183M","Update Timestamp":""},
-{"OEM Vendor Name":"KAIDA","OEM Vendor No":"7251825261","Apple Vendor Code":"004183M","Update Timestamp":""},
-{"OEM Vendor Name":"KAILY PACKAGING","OEM Vendor No":"VKP071","Apple Vendor Code":"000414M","Update Timestamp":""},
-{"OEM Vendor Name":"KAITEK","OEM Vendor No":"VKP051_SII","Apple Vendor Code":"000721M","Update Timestamp":""},
-{"OEM Vendor Name":"KEMET","OEM Vendor No":"VKE241","Apple Vendor Code":"000423M","Update Timestamp":""},
-{"OEM Vendor Name":"KENT＿＿ LANDSBERG","OEM Vendor No":"1000550451","Apple Vendor Code":"000426M","Update Timestamp":""},
-{"OEM Vendor Name":"KOSUN","OEM Vendor No":"VKP111","Apple Vendor Code":"000295M","Update Timestamp":""},
-{"OEM Vendor Name":"LAIRD","OEM Vendor No":"VCN0018601","Apple Vendor Code":"003343M","Update Timestamp":""},
-{"OEM Vendor Name":"LATERAL","OEM Vendor No":"VSG0010102","Apple Vendor Code":"004506M","Update Timestamp":""},
-{"OEM Vendor Name":"LG Display","OEM Vendor No":"VIE0010018","Apple Vendor Code":"001625M","Update Timestamp":""},
-{"OEM Vendor Name":"LINEAR TECHNOLOGY","OEM Vendor No":"VLT411","Apple Vendor Code":"000459M","Update Timestamp":""},
-{"OEM Vendor Name":"LINEAR TECHNOLOGY","OEM Vendor No":"VSG0010104","Apple Vendor Code":"000459M","Update Timestamp":""},
-{"OEM Vendor Name":"LITEON","OEM Vendor No":"VTW0011051","Apple Vendor Code":"001650M","Update Timestamp":""},
-{"OEM Vendor Name":"LONG FEI","OEM Vendor No":"7527231721","Apple Vendor Code":"004336M","Update Timestamp":""},
-{"OEM Vendor Name":"LONG FEI","OEM Vendor No":"VLF091","Apple Vendor Code":"004336M","Update Timestamp":""},
-{"OEM Vendor Name":"LONGWELL","OEM Vendor No":"X188901791","Apple Vendor Code":"000466M","Update Timestamp":""},
-{"OEM Vendor Name":"LONGWELL","OEM Vendor No":"VTW0011121","Apple Vendor Code":"000466M","Update Timestamp":""},
-{"OEM Vendor Name":"LONGWELL","OEM Vendor No":"V07931","Apple Vendor Code":"000466M","Update Timestamp":""},
-{"OEM Vendor Name":"LSI","OEM Vendor No":"2538480371","Apple Vendor Code":"000467M","Update Timestamp":""},
-{"OEM Vendor Name":"LSI","OEM Vendor No":"1253848031","Apple Vendor Code":"000467M","Update Timestamp":""},
-{"OEM Vendor Name":"LSI","OEM Vendor No":"VLL201","Apple Vendor Code":"000467M","Update Timestamp":""},
-{"OEM Vendor Name":"LSI","OEM Vendor No":"VSG0010106","Apple Vendor Code":"000467M","Update Timestamp":""},
-{"OEM Vendor Name":"Laird","OEM Vendor No":"7230383441","Apple Vendor Code":"001932M","Update Timestamp":""},
-{"OEM Vendor Name":"Laird","OEM Vendor No":"VCN0018601","Apple Vendor Code":"001932M","Update Timestamp":""},
-{"OEM Vendor Name":"Liow Ko","OEM Vendor No":"VDM131","Apple Vendor Code":"003250M","Update Timestamp":""},
-{"OEM Vendor Name":"Liowko","OEM Vendor No":"VCN0022081","Apple Vendor Code":"003250M","Update Timestamp":""},
-{"OEM Vendor Name":"Liowko","OEM Vendor No":"7411710261","Apple Vendor Code":"003250M","Update Timestamp":""},
-{"OEM Vendor Name":"Long-Young Electronix (LYE)","OEM Vendor No":"18672527B1","Apple Vendor Code":"004695M","Update Timestamp":""},
-{"OEM Vendor Name":"Long-Young Electronix (LYE)","OEM Vendor No":"VCN0021808","Apple Vendor Code":"004695M","Update Timestamp":""},
-{"OEM Vendor Name":"M-FLEX","OEM Vendor No":"VSG0010164","Apple Vendor Code":"002199M","Update Timestamp":""},
-{"OEM Vendor Name":"M-FLEX","OEM Vendor No":"VMF001","Apple Vendor Code":"002199M","Update Timestamp":""},
-{"OEM Vendor Name":"MARVELL ASIA PTE LTD.","OEM Vendor No":"VMA191","Apple Vendor Code":"003055M","Update Timestamp":""},
-{"OEM Vendor Name":"MATSUSHITA/PANASONIC","OEM Vendor No":"VTW0010005","Apple Vendor Code":"000593M","Update Timestamp":""},
-{"OEM Vendor Name":"MATSUSHITA/PANASONIC","OEM Vendor No":"VTW0011167","Apple Vendor Code":"000705M","Update Timestamp":""},
-{"OEM Vendor Name":"MATSUSHITA/PANASONIC","OEM Vendor No":"VTW0011167","Apple Vendor Code":"000593M","Update Timestamp":""},
-{"OEM Vendor Name":"MATSUSHITA/PANASONIC","OEM Vendor No":"VPI121","Apple Vendor Code":"000593M","Update Timestamp":""},
-{"OEM Vendor Name":"MATSUSHITA/PANASONIC","OEM Vendor No":"VTW0011427","Apple Vendor Code":"000593M","Update Timestamp":""},
-{"OEM Vendor Name":"MAXIM","OEM Vendor No":"VMI031","Apple Vendor Code":"001489M","Update Timestamp":""},
-{"OEM Vendor Name":"MAXIM","OEM Vendor No":"5523202211","Apple Vendor Code":"001489M","Update Timestamp":""},
-{"OEM Vendor Name":"MAXIM","OEM Vendor No":"VIE0010002","Apple Vendor Code":"001489M","Update Timestamp":""},
-{"OEM Vendor Name":"MEKTEC","OEM Vendor No":"VMT511","Apple Vendor Code":"001481M","Update Timestamp":""},
-{"OEM Vendor Name":"MEKTEC CORPORATION","OEM Vendor No":"VTW0010762","Apple Vendor Code":"001481M","Update Timestamp":""},
-{"OEM Vendor Name":"MICRON SEMICONDUCTOR PROD INC","OEM Vendor No":"VUS0010120_MICRON","Apple Vendor Code":"000506M","Update Timestamp":""},
-{"OEM Vendor Name":"MICROSOFT","OEM Vendor No":"2546830101","Apple Vendor Code":"001698M","Update Timestamp":""},
-{"OEM Vendor Name":"MITSUMI","OEM Vendor No":"VME121","Apple Vendor Code":"000519M","Update Timestamp":""},
-{"OEM Vendor Name":"MOLEX","OEM Vendor No":"VMH051","Apple Vendor Code":"000522M","Update Timestamp":""},
-{"OEM Vendor Name":"MOLEX INCORPORATED","OEM Vendor No":"VHK0010718","Apple Vendor Code":"000522M","Update Timestamp":""},
-{"OEM Vendor Name":"MURATA","OEM Vendor No":"VMC061","Apple Vendor Code":"000536M","Update Timestamp":""},
-{"OEM Vendor Name":"MWM Acoustics LLC","OEM Vendor No":"VMA251","Apple Vendor Code":"004172M","Update Timestamp":""},
-{"OEM Vendor Name":"MWM Acoustics LLC","OEM Vendor No":"VUS0010112","Apple Vendor Code":"004172M","Update Timestamp":""},
-{"OEM Vendor Name":"MWM Acoustics LLC","OEM Vendor No":"212233911","Apple Vendor Code":"004172M","Update Timestamp":""},
-{"OEM Vendor Name":"Mag Layers","OEM Vendor No":"VML071","Apple Vendor Code":"003184M","Update Timestamp":""},
-{"OEM Vendor Name":"Ming Tai","OEM Vendor No":"6681680651","Apple Vendor Code":"002320M","Update Timestamp":""},
-{"OEM Vendor Name":"NAN YA PRINTED CIRCUIT BOARD CORP.","OEM Vendor No":"VTW0011509","Apple Vendor Code":"004841M","Update Timestamp":""},
-{"OEM Vendor Name":"NAYU","OEM Vendor No":"7388296590","Apple Vendor Code":"000295M","Update Timestamp":""},
-{"OEM Vendor Name":"NDK","OEM Vendor No":"VTW0010885","Apple Vendor Code":"000549M","Update Timestamp":""},
-{"OEM Vendor Name":"NDK","OEM Vendor No":"8033692001","Apple Vendor Code":"000549M","Update Timestamp":""},
-{"OEM Vendor Name":"NEC TOKIN","OEM Vendor No":"VTE161","Apple Vendor Code":"000550M","Update Timestamp":""},
-{"OEM Vendor Name":"NVIDIA","OEM Vendor No":"VNS181","Apple Vendor Code":"002466M","Update Timestamp":""},
-{"OEM Vendor Name":"NWING","OEM Vendor No":"VTW0000019","Apple Vendor Code":"000295M","Update Timestamp":""},
-{"OEM Vendor Name":"NYPRO","OEM Vendor No":"VHK0010384","Apple Vendor Code":"001665M","Update Timestamp":""},
-{"OEM Vendor Name":"Nanya","OEM Vendor No":"1609680401","Apple Vendor Code":"004841M","Update Timestamp":""},
-{"OEM Vendor Name":"National Semiconductor (NS)","OEM Vendor No":"VNA111","Apple Vendor Code":"000544M","Update Timestamp":""},
-{"OEM Vendor Name":"Nishoku","OEM Vendor No":"7036862801","Apple Vendor Code":"003790M","Update Timestamp":""},
-{"OEM Vendor Name":"Nishoku","OEM Vendor No":"VNI021","Apple Vendor Code":"003790M","Update Timestamp":""},
-{"OEM Vendor Name":"Nishoku","OEM Vendor No":"VCN0020305","Apple Vendor Code":"003790M","Update Timestamp":""},
-{"OEM Vendor Name":"ON","OEM Vendor No":"VTW0011136_ON","Apple Vendor Code":"002360M","Update Timestamp":""},
-{"OEM Vendor Name":"ORIENTAL PRINTED CIRCUITS (OPC)","OEM Vendor No":"VOP011","Apple Vendor Code":"001733M","Update Timestamp":""},
-{"OEM Vendor Name":"ORIENTAL PRINTED CIRCUITS LTD","OEM Vendor No":"VHK0010183","Apple Vendor Code":"001733M","Update Timestamp":""},
-{"OEM Vendor Name":"PAISHING","OEM Vendor No":"VCN0020447","Apple Vendor Code":"005078M","Update Timestamp":""},
-{"OEM Vendor Name":"PAISHING","OEM Vendor No":"5701186841","Apple Vendor Code":"005078M","Update Timestamp":""},
-{"OEM Vendor Name":"PCH INTERNATIONAL LTD.","OEM Vendor No":"VPI011","Apple Vendor Code":"002413M","Update Timestamp":""},
-{"OEM Vendor Name":"PERICOM","OEM Vendor No":"VTW0011136_PERICOM","Apple Vendor Code":"001680M","Update Timestamp":""},
-{"OEM Vendor Name":"PIONEER","OEM Vendor No":"VPC391","Apple Vendor Code":"002514M","Update Timestamp":""},
-{"OEM Vendor Name":"PIONEER","OEM Vendor No":"7843567091","Apple Vendor Code":"004294M","Update Timestamp":""},
-{"OEM Vendor Name":"PIONEER","OEM Vendor No":"VCN0018231","Apple Vendor Code":"004294M","Update Timestamp":""},
-{"OEM Vendor Name":"PRIMAX","OEM Vendor No":"VPE331","Apple Vendor Code":"001255M","Update Timestamp":""},
-{"OEM Vendor Name":"PRIMAX","OEM Vendor No":"VTW0011450","Apple Vendor Code":"001255M","Update Timestamp":""},
-{"OEM Vendor Name":"PULSE","OEM Vendor No":"VSG0010119","Apple Vendor Code":"000633M","Update Timestamp":""},
-{"OEM Vendor Name":"Panel","OEM Vendor No":"VCN0022270","Apple Vendor Code":"004087M","Update Timestamp":""},
-{"OEM Vendor Name":"Panel","OEM Vendor No":"7546313190","Apple Vendor Code":"004087M","Update Timestamp":""},
-{"OEM Vendor Name":"Philips Component","OEM Vendor No":"VTW0011136_NXP","Apple Vendor Code":"000142M","Update Timestamp":""},
-{"OEM Vendor Name":"Polymatech","OEM Vendor No":"VPC541","Apple Vendor Code":"004157M","Update Timestamp":""},
-{"OEM Vendor Name":"Polymatech","OEM Vendor No":"VPC491","Apple Vendor Code":"004157M","Update Timestamp":""},
-{"OEM Vendor Name":"Polymatech (Shanghai) Trading Co; Ltd","OEM Vendor No":"VCN0015434","Apple Vendor Code":"004157M","Update Timestamp":""},
-{"OEM Vendor Name":"Prent","OEM Vendor No":"VCN0016988","Apple Vendor Code":"004016M","Update Timestamp":""},
-{"OEM Vendor Name":"Prent","OEM Vendor No":"7605680451","Apple Vendor Code":"004016M","Update Timestamp":""},
-{"OEM Vendor Name":"Promate","OEM Vendor No":"V18641","Apple Vendor Code":"003031M","Update Timestamp":""},
-{"OEM Vendor Name":"Promate","OEM Vendor No":"V18641_SILEGO","Apple Vendor Code":"004285M","Update Timestamp":""},
-{"OEM Vendor Name":"QUANTA COMPUTER INC.","OEM Vendor No":"VQC041","Apple Vendor Code":"002019M","Update Timestamp":""},
-{"OEM Vendor Name":"RAYCHEM","OEM Vendor No":"VTW0011136_TE","Apple Vendor Code":"001182M","Update Timestamp":""},
-{"OEM Vendor Name":"RENESAS","OEM Vendor No":"VTW0011136_RENESAS","Apple Vendor Code":"000518M","Update Timestamp":""},
-{"OEM Vendor Name":"RENESAS TECHNOLOGY TAIWAN CO.","OEM Vendor No":"VRT051","Apple Vendor Code":"000518M","Update Timestamp":""},
-{"OEM Vendor Name":"RI-TENG","OEM Vendor No":"7694219981","Apple Vendor Code":"003924M","Update Timestamp":""},
-{"OEM Vendor Name":"A&J","OEM Vendor No":"7149933151","Apple Vendor Code":"004341M","Update Timestamp":""},
-{"OEM Vendor Name":"A. FA.","OEM Vendor No":"VCN0016112","Apple Vendor Code":"002339M","Update Timestamp":""},
-{"OEM Vendor Name":"A. FA.","OEM Vendor No":"VKR051","Apple Vendor Code":"002339M","Update Timestamp":""},
-{"OEM Vendor Name":"AAC Acoustic","OEM Vendor No":"VYE031","Apple Vendor Code":"004441M","Update Timestamp":""},
-{"OEM Vendor Name":"ACME","OEM Vendor No":"VHK0010580","Apple Vendor Code":"004122M","Update Timestamp":""},
-{"OEM Vendor Name":"ACME","OEM Vendor No":"VAI741","Apple Vendor Code":"004122M","Update Timestamp":""},
-{"OEM Vendor Name":"ACON","OEM Vendor No":"VTW0011380","Apple Vendor Code":"003455M","Update Timestamp":""},
-{"OEM Vendor Name":"ACON","OEM Vendor No":"VACI01","Apple Vendor Code":"003455M","Update Timestamp":""},
-{"OEM Vendor Name":"ACON","OEM Vendor No":"VTW0011380","Apple Vendor Code":"000990M","Update Timestamp":""},
-{"OEM Vendor Name":"ADVANCED COMPONENT TECH. INC.","OEM Vendor No":"VACI01","Apple Vendor Code":"000990M","Update Timestamp":""},
-{"OEM Vendor Name":"AENEAS ELECTRONICS CO.,LTD.","OEM Vendor No":"VAE011_RICOH","Apple Vendor Code":"000667M","Update Timestamp":""},
-{"OEM Vendor Name":"AMPHENOL","OEM Vendor No":"VSA391","Apple Vendor Code":"000049M","Update Timestamp":""},
-{"OEM Vendor Name":"AMPHENOL","OEM Vendor No":"VCN0018696","Apple Vendor Code":"000049M","Update Timestamp":""},
-{"OEM Vendor Name":"APPLE","OEM Vendor No":"VAI871_SKHYNIX","Apple Vendor Code":"001161M","Update Timestamp":""},
-{"OEM Vendor Name":"APPLE","OEM Vendor No":"VAI871_HGST","Apple Vendor Code":"004642M","Update Timestamp":""},
-{"OEM Vendor Name":"APPLE","OEM Vendor No":"VAI871_NANYA","Apple Vendor Code":"004841M","Update Timestamp":""},
-{"OEM Vendor Name":"APPLE","OEM Vendor No":"VAI871_AT&s","Apple Vendor Code":"004525M","Update Timestamp":""},
-{"OEM Vendor Name":"APPLE","OEM Vendor No":"VAI871_FOXCONN","Apple Vendor Code":"000295M","Update Timestamp":""},
-{"OEM Vendor Name":"APPLE","OEM Vendor No":"2330938711_SAMSUNG","Apple Vendor Code":"000695M","Update Timestamp":""},
-{"OEM Vendor Name":"APPLE","OEM Vendor No":"2330938711_Sandisk","Apple Vendor Code":"003967M","Update Timestamp":""},
-{"OEM Vendor Name":"APPLE","OEM Vendor No":"VAI871_MICRON","Apple Vendor Code":"003758M","Update Timestamp":""},
-{"OEM Vendor Name":"APPLE","OEM Vendor No":"VAI871_AUO","Apple Vendor Code":"003193M","Update Timestamp":""},
-{"OEM Vendor Name":"APPLE","OEM Vendor No":"VAI871_TRIPOD","Apple Vendor Code":"002465M","Update Timestamp":""},
-{"OEM Vendor Name":"APPLE","OEM Vendor No":"VAI871_TPK","Apple Vendor Code":"004249M","Update Timestamp":""},
-{"OEM Vendor Name":"APPLE","OEM Vendor No":"VAI871_CHIMEI","Apple Vendor Code":"002416M","Update Timestamp":""},
-{"OEM Vendor Name":"APPLE","OEM Vendor No":"VAI871_CMI","Apple Vendor Code":"004417M","Update Timestamp":""},
-{"OEM Vendor Name":"APPLE","OEM Vendor No":"VAI871_COMPEQ","Apple Vendor Code":"001357M","Update Timestamp":""},
-{"OEM Vendor Name":"APPLE","OEM Vendor No":"VAI871_ELPIDA","Apple Vendor Code":"003758M","Update Timestamp":""},
-{"OEM Vendor Name":"APPLE","OEM Vendor No":"VAI871_GCE","Apple Vendor Code":"001796M","Update Timestamp":""},
-{"OEM Vendor Name":"APPLE","OEM Vendor No":"VAI871_HITACHI","Apple Vendor Code":"004642M","Update Timestamp":""},
-{"OEM Vendor Name":"APPLE","OEM Vendor No":"VAI871_HYNIX","Apple Vendor Code":"001161M","Update Timestamp":""},
-{"OEM Vendor Name":"APPLE","OEM Vendor No":"VAI871_INTEL","Apple Vendor Code":"000382M","Update Timestamp":""},
-{"OEM Vendor Name":"APPLE","OEM Vendor No":"VAI871_LG","Apple Vendor Code":"001625M","Update Timestamp":""},
-{"OEM Vendor Name":"APPLE","OEM Vendor No":"VAI871_LIOWKO","Apple Vendor Code":"003250M","Update Timestamp":""},
-{"OEM Vendor Name":"APPLE","OEM Vendor No":"VAI871_MICRON","Apple Vendor Code":"000506M","Update Timestamp":""},
-{"OEM Vendor Name":"APPLE","OEM Vendor No":"VAI871_NANYA","Apple Vendor Code":"003514M","Update Timestamp":""},
-{"OEM Vendor Name":"APPLE","OEM Vendor No":"VAI871_NVIDIA","Apple Vendor Code":"002466M","Update Timestamp":""},
-{"OEM Vendor Name":"APPLE","OEM Vendor No":"VAI871_OPC","Apple Vendor Code":"001733M","Update Timestamp":""},
-{"OEM Vendor Name":"APPLE","OEM Vendor No":"VAI871_SAMSUNG","Apple Vendor Code":"000695M","Update Timestamp":""},
-{"OEM Vendor Name":"APPLE","OEM Vendor No":"VAI871_SAMSUNG","Apple Vendor Code":"004735M","Update Timestamp":""},
-{"OEM Vendor Name":"APPLE","OEM Vendor No":"VAI871_SEAGATE","Apple Vendor Code":"000716M","Update Timestamp":""},
-{"OEM Vendor Name":"APPLE","OEM Vendor No":"VAI871_SK HYNIX","Apple Vendor Code":"001161M","Update Timestamp":""},
-{"OEM Vendor Name":"APPLE","OEM Vendor No":"VAI871_TOSHIBA","Apple Vendor Code":"000841M","Update Timestamp":""},
-{"OEM Vendor Name":"ARGOSY","OEM Vendor No":"VAR131_HONDA","Apple Vendor Code":"001568M","Update Timestamp":""},
-{"OEM Vendor Name":"ARROW","OEM Vendor No":"VAE171_MICREL","Apple Vendor Code":"001763M","Update Timestamp":""},
-{"OEM Vendor Name":"ARVATO","OEM Vendor No":"VAD131","Apple Vendor Code":"003821M","Update Timestamp":""},
-{"OEM Vendor Name":"ARVATO DIGITAL SERVICES","OEM Vendor No":"VHK0010191","Apple Vendor Code":"003821M","Update Timestamp":""},
-{"OEM Vendor Name":"AT&S","OEM Vendor No":"4000050971","Apple Vendor Code":"004525M","Update Timestamp":""},
-{"OEM Vendor Name":"AU Optronics Corporation","OEM Vendor No":"VUS0010120_AUO","Apple Vendor Code":"003193M","Update Timestamp":""},
-{"OEM Vendor Name":"AURAS","OEM Vendor No":"VAT001","Apple Vendor Code":"003783M","Update Timestamp":""},
-{"OEM Vendor Name":"AURAS TECHNOLOGY CO.,LTD.","OEM Vendor No":"VTW0011500","Apple Vendor Code":"003783M","Update Timestamp":""},
-{"OEM Vendor Name":"AVNET","OEM Vendor No":"VTW0011136_TI","Apple Vendor Code":"003631M","Update Timestamp":""},
-{"OEM Vendor Name":"AVNET","OEM Vendor No":"VAA101_FAIRCHILD","Apple Vendor Code":"002195M","Update Timestamp":""},
-{"OEM Vendor Name":"AVNET","OEM Vendor No":"VAA101A_ST","Apple Vendor Code":"003631M","Update Timestamp":""},
-{"OEM Vendor Name":"AVNET","OEM Vendor No":"VAA101A_SST","Apple Vendor Code":"003766M","Update Timestamp":""},
-{"OEM Vendor Name":"AVNET","OEM Vendor No":"VAA101A_RENESAS","Apple Vendor Code":"000518M","Update Timestamp":""},
-{"OEM Vendor Name":"AVNET","OEM Vendor No":"VAA101A_ATMEL","Apple Vendor Code":"000978M","Update Timestamp":""},
-{"OEM Vendor Name":"AVNET","OEM Vendor No":"VAA101_TI","Apple Vendor Code":"003631M","Update Timestamp":""},
-{"OEM Vendor Name":"AVNET","OEM Vendor No":"VAA101A_MXIC","Apple Vendor Code":"001382M","Update Timestamp":""},
-{"OEM Vendor Name":"AVNET","OEM Vendor No":"VAA101A_NUMONYX","Apple Vendor Code":"004544M","Update Timestamp":""},
-{"OEM Vendor Name":"AVNET","OEM Vendor No":"VAA101A_MXIC","Apple Vendor Code":"003631M","Update Timestamp":""},
-{"OEM Vendor Name":"AVNET","OEM Vendor No":"VAA101A_NUMONYX","Apple Vendor Code":"003631M","Update Timestamp":""},
-{"OEM Vendor Name":"AVNET","OEM Vendor No":"212290011","Apple Vendor Code":"003631M","Update Timestamp":""},
-{"OEM Vendor Name":"AVNET","OEM Vendor No":"VAA101_AVNET","Apple Vendor Code":"003631M","Update Timestamp":""},
-{"OEM Vendor Name":"AVNET","OEM Vendor No":"VAA101_CYPRESS","Apple Vendor Code":"001381M","Update Timestamp":""},
-{"OEM Vendor Name":"AVNET","OEM Vendor No":"VAA101_INFINEON","Apple Vendor Code":"003866M","Update Timestamp":""},
-{"OEM Vendor Name":"AVNET","OEM Vendor No":"VAA101_NXP","Apple Vendor Code":"004295M","Update Timestamp":""},
-{"OEM Vendor Name":"AVNET","OEM Vendor No":"VAA101_ON","Apple Vendor Code":"002360M","Update Timestamp":""},
-{"OEM Vendor Name":"AVNET","OEM Vendor No":"VAA101_PERICOM","Apple Vendor Code":"001680M","Update Timestamp":""},
-{"OEM Vendor Name":"AVNET","OEM Vendor No":"VAA101_PHILIPS","Apple Vendor Code":"000142M","Update Timestamp":""},
-{"OEM Vendor Name":"AVNET","OEM Vendor No":"VAA101_RENESAS","Apple Vendor Code":"000518M","Update Timestamp":""},
-{"OEM Vendor Name":"AVNET","OEM Vendor No":"VAA101_SILEGO","Apple Vendor Code":"004285M","Update Timestamp":""},
-{"OEM Vendor Name":"AVNET","OEM Vendor No":"VAA101_TE","Apple Vendor Code":"001182M","Update Timestamp":""},
-{"OEM Vendor Name":"Amotech","OEM Vendor No":"VAC931","Apple Vendor Code":"004256M","Update Timestamp":""},
-{"OEM Vendor Name":"Amotech","OEM Vendor No":"VKR0010116","Apple Vendor Code":"004256M","Update Timestamp":""},
-{"OEM Vendor Name":"Asia Vital Components Co., Ltd.","OEM Vendor No":"VTW0011169","Apple Vendor Code":"004190M","Update Timestamp":""},
-{"OEM Vendor Name":"Asia Vital Components Co., Ltd.","OEM Vendor No":"VAV021","Apple Vendor Code":"004190M","Update Timestamp":""},
-{"OEM Vendor Name":"Avnet","OEM Vendor No":"VAA101A_ADESTO","Apple Vendor Code":"000978M","Update Timestamp":""},
-{"OEM Vendor Name":"Avnet Electronics","OEM Vendor No":"VTW0011136_CYPRESS","Apple Vendor Code":"003631M","Update Timestamp":""},
-{"OEM Vendor Name":"BOSCH SENSOR TEC GMBH","OEM Vendor No":"1655448001","Apple Vendor Code":"004541M","Update Timestamp":""},
-{"OEM Vendor Name":"BROADCOM＿＿CORPORATION＿＿-＿＿","OEM Vendor No":"VBA081","Apple Vendor Code":"002333M","Update Timestamp":""},
-{"OEM Vendor Name":"BROADCOM＿＿CORPORATION＿＿-＿＿","OEM Vendor No":"VIE0010017","Apple Vendor Code":"002333M","Update Timestamp":""},
-{"OEM Vendor Name":"BROADCOM＿＿CORPORATION＿＿-＿＿","OEM Vendor No":"VSG0010068","Apple Vendor Code":"002333M","Update Timestamp":""},
-{"OEM Vendor Name":"BROADWAY PACKAGING (HK)","OEM Vendor No":"VHK0010576","Apple Vendor Code":"001212M","Update Timestamp":""},
-{"OEM Vendor Name":"MWM","OEM Vendor No":"VUS0010950","Apple Vendor Code":"004172M","Update Timestamp":"06/02/2016"},
-{"OEM Vendor Name":"Compeq","OEM Vendor No":"VUS0010120_COMPEQ","Apple Vendor Code":"001357M","Update Timestamp":"06/02/2016"},
-{"OEM Vendor Name":"Nanya","OEM Vendor No":"VUS0010120_NANYA","Apple Vendor Code":"004841M","Update Timestamp":"06/02/2016"},
-{"OEM Vendor Name":"OPC","OEM Vendor No":"VUS0010120_OPC","Apple Vendor Code":"001733M","Update Timestamp":"06/02/2016"},
-{"OEM Vendor Name":"Nanya","OEM Vendor No":"VTW0000013_NANYA","Apple Vendor Code":"004841M","Update Timestamp":"06/03/2016"},
-{"OEM Vendor Name":"Foxconn","OEM Vendor No":"VTW0000013_FOXCONN","Apple Vendor Code":"000295M","Update Timestamp":"06/03/2016"},
-{"OEM Vendor Name":"Compeq","OEM Vendor No":"VTW0000013_COMPEQ","Apple Vendor Code":"001357M","Update Timestamp":"06/03/2016"},
-{"OEM Vendor Name":"Dynapack","OEM Vendor No":"VTW0000013_DYNAPACK","Apple Vendor Code":"003997M","Update Timestamp":"06/03/2016"},
-{"OEM Vendor Name":"Intel","OEM Vendor No":"VTW0000013_INTEL","Apple Vendor Code":"000382M","Update Timestamp":"06/03/2016"},
-{"OEM Vendor Name":"JABIL","OEM Vendor No":"VTW0000013_JABIL","Apple Vendor Code":"002112M","Update Timestamp":"06/03/2016"},
-{"OEM Vendor Name":"LG","OEM Vendor No":"VTW0000013_LG","Apple Vendor Code":"001625M","Update Timestamp":"06/03/2016"},
-{"OEM Vendor Name":"Micron","OEM Vendor No":"VTW0000013_MICRON","Apple Vendor Code":"000506M","Update Timestamp":"06/03/2016"},
-{"OEM Vendor Name":"Sky Hynix","OEM Vendor No":"VTW0000013_SK HYNIX","Apple Vendor Code":"001161M","Update Timestamp":"06/03/2016"},
-{"OEM Vendor Name":"OPC","OEM Vendor No":"VTW0000013_OPC","Apple Vendor Code":"001733M","Update Timestamp":"06/03/2016"},
-{"OEM Vendor Name":"IR","OEM Vendor No":"VTW0011136_IR","Apple Vendor Code":"000386M","Update Timestamp":"07/12/2016"},
-{"OEM Vendor Name":"WT MICROELECTRONICS","OEM Vendor No":"VWM121_FAIRCHILD","Apple Vendor Code":"002195M","Update Timestamp":""},
-{"OEM Vendor Name":"WT MICROELECTRONICS","OEM Vendor No":"VWM121_ST","Apple Vendor Code":"000729M","Update Timestamp":""},
-{"OEM Vendor Name":"WUJIANG SCREWTECH PRECISION","OEM Vendor No":"V07239","Apple Vendor Code":"005083M","Update Timestamp":""},
-{"OEM Vendor Name":"WUJIANG SCREWTECH PRECISION","OEM Vendor No":"VCN0015898","Apple Vendor Code":"005083M","Update Timestamp":""},
-{"OEM Vendor Name":"Wanshih","OEM Vendor No":"VSW151","Apple Vendor Code":"004305M","Update Timestamp":""},
-{"OEM Vendor Name":"YAGEO","OEM Vendor No":"6174789601","Apple Vendor Code":"001852M","Update Timestamp":""},
-{"OEM Vendor Name":"YAGEO","OEM Vendor No":"VCN0018730","Apple Vendor Code":"001852M","Update Timestamp":""},
-{"OEM Vendor Name":"YAGEO","OEM Vendor No":"VYU001","Apple Vendor Code":"003806M","Update Timestamp":""},
-{"OEM Vendor Name":"YAGEO","OEM Vendor No":"VYU001","Apple Vendor Code":"001852M","Update Timestamp":""},
-{"OEM Vendor Name":"YAGEO","OEM Vendor No":"6174789601","Apple Vendor Code":"003806M","Update Timestamp":""},
-{"OEM Vendor Name":"YAGEO","OEM Vendor No":"VCN0018730","Apple Vendor Code":"003806M","Update Timestamp":""},
-{"OEM Vendor Name":"YEL","OEM Vendor No":"VYE011_AVX","Apple Vendor Code":"000073M","Update Timestamp":""},
-{"OEM Vendor Name":"YEL","OEM Vendor No":"VYE011_CYNTEC","Apple Vendor Code":"003226M","Update Timestamp":""},
-{"OEM Vendor Name":"YEL","OEM Vendor No":"VYE011_AEM","Apple Vendor Code":"004293M","Update Timestamp":""},
-{"OEM Vendor Name":"YOMURA TECHNOLOGIES","OEM Vendor No":"7222082171","Apple Vendor Code":"003360M","Update Timestamp":""},
-{"OEM Vendor Name":"YOSUN INDUSTRIAL CORP.","OEM Vendor No":"V04W61_PARADE","Apple Vendor Code":"001240M","Update Timestamp":""},
-{"OEM Vendor Name":"YUAN CHEN","OEM Vendor No":"VCN0020158","Apple Vendor Code":"004338M","Update Timestamp":""},
-{"OEM Vendor Name":"YUAN CHEN","OEM Vendor No":"VKY101","Apple Vendor Code":"004338M","Update Timestamp":""},
-{"OEM Vendor Name":"YUAN CHEN","OEM Vendor No":"7266685951","Apple Vendor Code":"004338M","Update Timestamp":""},
-{"OEM Vendor Name":"Yomura","OEM Vendor No":"VYT021","Apple Vendor Code":"003360M","Update Timestamp":""},
-{"OEM Vendor Name":"ZHEN DING TECHNOLOGY HOLDING LTD","OEM Vendor No":"VVG0000003","Apple Vendor Code":"004558M","Update Timestamp":""},
-{"OEM Vendor Name":"iPaper","OEM Vendor No":"VIP261","Apple Vendor Code":"003954M","Update Timestamp":""},
-{"OEM Vendor Name":"R＿＿R＿＿Donnelley＿＿&＿＿Sons＿＿( RRD )","OEM Vendor No":"VCN0013956","Apple Vendor Code":"003892M","Update Timestamp":""},
-{"OEM Vendor Name":"R＿＿R＿＿Donnelley＿＿&＿＿Sons＿＿( RRD )","OEM Vendor No":"7946434611","Apple Vendor Code":"003892M","Update Timestamp":""},
-{"OEM Vendor Name":"Silego","OEM Vendor No":"VTW0011133","Apple Vendor Code":"000386M","Update Timestamp":"06/06/2016"},
-{"OEM Vendor Name":"DELTA","OEM Vendor No":"VTW0011488","Apple Vendor Code":"000221M","Update Timestamp":"06/07/2016"},
-{"OEM Vendor Name":"Diods","OEM Vendor No":"VHK0010299","Apple Vendor Code":"002358M","Update Timestamp":"11/15/2016"},
-{"OEM Vendor Name":"Nanya Technology Corporation","OEM Vendor No":"VTWTEST","Apple Vendor Code":"003514M","Update Timestamp":"05/11/2017"},
-{"OEM Vendor Name":"Catcher","OEM Vendor No":"VCN0022693","Apple Vendor Code":"003241M","Update Timestamp":"06/01/2016"},
-{"OEM Vendor Name":"Merry","OEM Vendor No":"VTW0011617","Apple Vendor Code":"004878M","Update Timestamp":"06/01/2016"},
-{"OEM Vendor Name":"NANYA","OEM Vendor No":"VUS0010120_NANYA-1","Apple Vendor Code":"004841M","Update Timestamp":"07/25/2016"},
-{"OEM Vendor Name":"Jabil","OEM Vendor No":"VTW0000013_JABIL","Apple Vendor Code":"004563M","Update Timestamp":"06/20/2016"},
-{"OEM Vendor Name":"TI","OEM Vendor No":"VTW0011111","Apple Vendor Code":"000822M","Update Timestamp":"03/15/2017"},
-{"OEM Vendor Name":"Infineon","OEM Vendor No":"VTW0011136_INFINEON","Apple Vendor Code":"000386M","Update Timestamp":"08/25/2016"},
-{"OEM Vendor Name":"BOE","OEM Vendor No":"VUS0010120_JDF-CD","Apple Vendor Code":"005434M","Update Timestamp":"11/28/2016"},
-{"OEM Vendor Name":"ZDT","OEM Vendor No":"VHK0000022","Apple Vendor Code":"004558M","Update Timestamp":"01/12/2017"},
-{"OEM Vendor Name":"Honhai","OEM Vendor No":"VHK0000022","Apple Vendor Code":"000295M","Update Timestamp":"01/13/2017"},
-{"OEM Vendor Name":"Jabil","OEM Vendor No":"VTW0000013","Apple Vendor Code":"002112M","Update Timestamp":"06/01/2016"},
-{"OEM Vendor Name":"Sunon","OEM Vendor No":"VTW0011498","Apple Vendor Code":"003000M","Update Timestamp":"06/01/2016"},
-{"OEM Vendor Name":"Samsung","OEM Vendor No":"VTW0000013_SAMSUNG","Apple Vendor Code":"000695M","Update Timestamp":"06/10/2016"},
-{"OEM Vendor Name":"On","OEM Vendor No":"VTW0011133","Apple Vendor Code":"002360M","Update Timestamp":"06/10/2016"},
-{"OEM Vendor Name":"Compeq","OEM Vendor No":"VTW0011372","Apple Vendor Code":"001357M","Update Timestamp":"06/10/2016"},
-{"OEM Vendor Name":"Honhai","OEM Vendor No":"VCN0000047","Apple Vendor Code":"000295M","Update Timestamp":"06/10/2016"},
-{"OEM Vendor Name":"Jabil","OEM Vendor No":"VCN0024119","Apple Vendor Code":"002112M","Update Timestamp":"06/10/2016"},
-{"OEM Vendor Name":"ROE","OEM Vendor No":"VCN0025556","Apple Vendor Code":"004751M","Update Timestamp":"06/10/2016"},
-{"OEM Vendor Name":"Toyo","OEM Vendor No":"VHK0011191","Apple Vendor Code":"003254M","Update Timestamp":"06/10/2016"},
-{"OEM Vendor Name":"Merry","OEM Vendor No":"VTW0011618","Apple Vendor Code":"004878M","Update Timestamp":"06/10/2016"},
-{"OEM Vendor Name":"ROE","OEM Vendor No":"VVG0010076","Apple Vendor Code":"004751M","Update Timestamp":"06/10/2016"},
-{"OEM Vendor Name":"Vishay","OEM Vendor No":"VTW0011111","Apple Vendor Code":"000743M","Update Timestamp":"02/23/2018"},
-{"OEM Vendor Name":"Wistron","OEM Vendor No":"VGB0010022","Apple Vendor Code":"003699M","Update Timestamp":"07/12/2018"},
-{"OEM Vendor Name":"Samsung","OEM Vendor No":"VCN0016400","Apple Vendor Code":"000931M","Update Timestamp":"07/20/2018"},
-{"OEM Vendor Name":"IC","OEM Vendor No":"VHK0010546","Apple Vendor Code":"000387M","Update Timestamp":"08/06/2018"},
-{"OEM Vendor Name":"LOTES","OEM Vendor No":"VHK0010697","Apple Vendor Code":"005290M","Update Timestamp":"08/27/2018"},
-{"OEM Vendor Name":"LOTES","OEM Vendor No":"VTW0011313","Apple Vendor Code":"005290M","Update Timestamp":"08/27/2018"},
-{"OEM Vendor Name":"LYSUZ","OEM Vendor No":"VHK0011367","Apple Vendor Code":"004604M","Update Timestamp":"08/28/2018"},
-{"OEM Vendor Name":"Panel","OEM Vendor No":"VHK0011366","Apple Vendor Code":"004604M","Update Timestamp":"09/04/2018"},
-{"OEM Vendor Name":"Garuda","OEM Vendor No":"VHK0000022","Apple Vendor Code":"005684M","Update Timestamp":"08/30/2018"},
-{"OEM Vendor Name":"Pioneer","OEM Vendor No":"VWS0010007","Apple Vendor Code":"004294M","Update Timestamp":"09/13/2018"},
-{"OEM Vendor Name":"Nidec","OEM Vendor No":"VHK0010406","Apple Vendor Code":"001402M","Update Timestamp":"08/31/2018"},
-{"OEM Vendor Name":"Flex","OEM Vendor No":"VHK0010627","Apple Vendor Code":"004328M","Update Timestamp":"08/31/2018"},
-{"OEM Vendor Name":"Anjie","OEM Vendor No":"VCN0022247","Apple Vendor Code":"004533M","Update Timestamp":"08/31/2018"},
-{"OEM Vendor Name":"FORBETTER","OEM Vendor No":"VCN0029169","Apple Vendor Code":"005734M","Update Timestamp":"08/31/2018"},
-{"OEM Vendor Name":"Desay","OEM Vendor No":"VCN0021707","Apple Vendor Code":"005050M","Update Timestamp":"09/03/2018"},
-{"OEM Vendor Name":"Ri Teng","OEM Vendor No":"VWS0010034","Apple Vendor Code":"004309M","Update Timestamp":"09/03/2018"},
-{"OEM Vendor Name":"Dialog","OEM Vendor No":"VDE0010010","Apple Vendor Code":"001462M","Update Timestamp":"09/04/2018"},
-{"OEM Vendor Name":"Kersen VMI","OEM Vendor No":"VCN0019072","Apple Vendor Code":"004913M","Update Timestamp":"09/04/2018"},
-{"OEM Vendor Name":"DEREN","OEM Vendor No":"VCN0015345","Apple Vendor Code":"005403M","Update Timestamp":"09/04/2018"},
-{"OEM Vendor Name":"Samsung","OEM Vendor No":"VCN0030205","Apple Vendor Code":"000931M","Update Timestamp":"09/04/2018"},
-{"OEM Vendor Name":"Vishay","OEM Vendor No":"VTW0011111","Apple Vendor Code":"000544M","Update Timestamp":"03/20/2018"},
-{"OEM Vendor Name":"Murata","OEM Vendor No":"VCN0018917","Apple Vendor Code":"000536M","Update Timestamp":"06/25/2018"},
-{"OEM Vendor Name":"SAMSUNG PACIFIC","OEM Vendor No":"VTW0000013_SAMSUNG","Apple Vendor Code":"000931M","Update Timestamp":"06/25/2018"},
-{"OEM Vendor Name":"ASE","OEM Vendor No":"VUS0010120_ASE","Apple Vendor Code":"005158M","Update Timestamp":"09/05/2018"},
-{"OEM Vendor Name":"Unimicron","OEM Vendor No":"VTW0011415","Apple Vendor Code":"003435M","Update Timestamp":"09/05/2018"},
-{"OEM Vendor Name":"Unitech","OEM Vendor No":"VTW0011358","Apple Vendor Code":"001801M","Update Timestamp":"09/05/2018"},
-{"OEM Vendor Name":"CTC","OEM Vendor No":"deleted","Apple Vendor Code":"003241M","Update Timestamp":"09/06/2018"},
-{"OEM Vendor Name":"Anjie","OEM Vendor No":"del","Apple Vendor Code":"004533M","Update Timestamp":"09/11/2018"},
-{"OEM Vendor Name":"ASE","OEM Vendor No":"VUS0010120_USI","Apple Vendor Code":"005158M","Update Timestamp":"09/19/2018"},
-{"OEM Vendor Name":"TOSHIBA","OEM Vendor No":"VUS0010120_TOSHIBA","Apple Vendor Code":"004723M","Update Timestamp":"09/05/2018"},
-{"OEM Vendor Name":"DIALOG","OEM Vendor No":"VTW0000013_DIALOG","Apple Vendor Code":"001462M","Update Timestamp":"09/05/2018"},
-{"OEM Vendor Name":"USI","OEM Vendor No":"VTW0000013_USI","Apple Vendor Code":"002261M","Update Timestamp":"09/05/2018"},
-{"OEM Vendor Name":"ON","OEM Vendor No":"VTW0011224","Apple Vendor Code":"002360M","Update Timestamp":"09/05/2018"},
-{"OEM Vendor Name":"TTM","OEM Vendor No":"VUS0010120_TTM","Apple Vendor Code":"001733M","Update Timestamp":"09/05/2018"},
-{"OEM Vendor Name":"TTM","OEM Vendor No":"VTW0000013_TTM","Apple Vendor Code":"001733M","Update Timestamp":"09/05/2018"},
-{"OEM Vendor Name":"KEMET","OEM Vendor No":"VSG0010100","Apple Vendor Code":"000423M","Update Timestamp":"10/31/2018"},
-{"OEM Vendor Name":"GIS","OEM Vendor No":"VTW0000013_GIS","Apple Vendor Code":"005124M","Update Timestamp":"03/28/2019"},
-{"OEM Vendor Name":"NEXPERIA","OEM Vendor No":"VTW0011136_NEXPERIA","Apple Vendor Code":"005674M","Update Timestamp":"04/02/2019"},
-{"OEM Vendor Name":"NXP","OEM Vendor No":"VTW0011136_NXP","Apple Vendor Code":"004295M","Update Timestamp":""},
-{"OEM Vendor Name":"GUOGUANG ELECTRIC CO., LTD","OEM Vendor No":"VCN0024077","Apple Vendor Code":"005220M","Update Timestamp":"09/04/2018"},
-{"OEM Vendor Name":"TOSHIBA","OEM Vendor No":"VTW0000013_TOSHIBA","Apple Vendor Code":"004723M","Update Timestamp":"09/05/2018"},
-{"OEM Vendor Name":"Unimicron","OEM Vendor No":"VTW0000013_UNIMICRON","Apple Vendor Code":"003435M","Update Timestamp":"09/05/2018"},
-{"OEM Vendor Name":"Simplo","OEM Vendor No":"VCN0018704","Apple Vendor Code":"004031M","Update Timestamp":"09/05/2018"},
-{"OEM Vendor Name":"M-flex","OEM Vendor No":"000","Apple Vendor Code":"000","Update Timestamp":"09/05/2018"},
-{"OEM Vendor Name":"UNIMICRON","OEM Vendor No":"VUS0010120_UNIMICRON","Apple Vendor Code":"003435M","Update Timestamp":"09/05/2018"},
-{"OEM Vendor Name":"Nanya","OEM Vendor No":"VTW0000013_NANYA","Apple Vendor Code":"003514M","Update Timestamp":"03/18/2019"},
-{"OEM Vendor Name":"JSCC","OEM Vendor No":"VTW0000013_SANDISK","Apple Vendor Code":"005779M","Update Timestamp":"04/23/2019"},
-{"OEM Vendor Name":"SANDISK","OEM Vendor No":"VTW0000013_SANDISK","Apple Vendor Code":"003967M","Update Timestamp":"09/05/2018"},
-{"OEM Vendor Name":"SAMSUNG","OEM Vendor No":"VUS0010120_SAMSUNG","Apple Vendor Code":"000695M","Update Timestamp":"09/05/2018"},
-{"OEM Vendor Name":"Foxconn","OEM Vendor No":"VCN0000143","Apple Vendor Code":"000295M","Update Timestamp":"09/05/2018"},
-{"OEM Vendor Name":"SHENZHEN EVERWIN PRECISION","OEM Vendor No":"VCN0018704","Apple Vendor Code":"005211M","Update Timestamp":"09/05/2018"},
-{"OEM Vendor Name":"Catcher Technology Company","OEM Vendor No":"VCN0031024","Apple Vendor Code":"003241M","Update Timestamp":"09/05/2018"},
-{"OEM Vendor Name":"Simplo","OEM Vendor No":"VTW0000013_SIMPLO","Apple Vendor Code":"004031M","Update Timestamp":"09/05/2018"},
-{"OEM Vendor Name":"Sharp","OEM Vendor No":"VTW0000013_SHARP","Apple Vendor Code":"000730M","Update Timestamp":"09/05/2018"},
-{"OEM Vendor Name":"Sharp VMI","OEM Vendor No":"VIE0010018","Apple Vendor Code":"000730M","Update Timestamp":"11/09/2018"},
-{"OEM Vendor Name":"AMS","OEM Vendor No":"VTW0011136_AMS","Apple Vendor Code":"001263M","Update Timestamp":"03/27/2019"},
-{"OEM Vendor Name":"TI","OEM Vendor No":"VTW0000013_TI","Apple Vendor Code":"000822M","Update Timestamp":"03/28/2019"},
-{"OEM Vendor Name":"Simplo","OEM Vendor No":"VUS0010120_SIMPLO-A","Apple Vendor Code":"004031M","Update Timestamp":"09/07/2018"},
-{"OEM Vendor Name":"Foxconn","OEM Vendor No":"TOE007","Apple Vendor Code":"000295M","Update Timestamp":"03/27/2019"},
-{"OEM Vendor Name":"AMS","OEM Vendor No":"VTW0000013_HEPTAGON","Apple Vendor Code":"001263M","Update Timestamp":"03/27/2019"},
-{"OEM Vendor Name":"CCTC","OEM Vendor No":"VHK0010651","Apple Vendor Code":"004803M","Update Timestamp":"03/28/2019"},
-{"OEM Vendor Name":"AAC","OEM Vendor No":"VSG0010069","Apple Vendor Code":"004441M","Update Timestamp":"09/05/2018"},
-{"OEM Vendor Name":"UNITECH","OEM Vendor No":"VTW0000013_UNITECH","Apple Vendor Code":"001801M","Update Timestamp":"09/05/2018"},
-{"OEM Vendor Name":"Sunway","OEM Vendor No":"VCN0010017","Apple Vendor Code":"005173M","Update Timestamp":"09/05/2018"},
-{"OEM Vendor Name":"GUOGUANG ELECTRIC CO., LTD","OEM Vendor No":"VHK0011246","Apple Vendor Code":"005220M","Update Timestamp":"09/05/2018"},
-{"OEM Vendor Name":"DESAY","OEM Vendor No":"VUS0010120_DESAY","Apple Vendor Code":"005050M","Update Timestamp":"09/05/2018"},
-{"OEM Vendor Name":"UNITECH","OEM Vendor No":"VUS0010120_UNITECH","Apple Vendor Code":"001801M","Update Timestamp":"09/05/2018"},
-{"OEM Vendor Name":"TSMC","OEM Vendor No":"2330938711","Apple Vendor Code":"002110M","Update Timestamp":"09/07/2018"},
-{"OEM Vendor Name":"JSCC","OEM Vendor No":"VTW0000013_SAMSUNG","Apple Vendor Code":"005779M","Update Timestamp":"04/23/2019"},
-{"OEM Vendor Name":"Flexium 2","OEM Vendor No":"VTW0011062","Apple Vendor Code":"004398M","Update Timestamp":"04/22/2019"},
-{"OEM Vendor Name":"TSMC","OEM Vendor No":"VTW0000013_TSMC","Apple Vendor Code":"002110M","Update Timestamp":"09/05/2018"},
-{"OEM Vendor Name":"Alpha and Omega","OEM Vendor No":"VTW0011443","Apple Vendor Code":"004265M","Update Timestamp":"09/05/2018"},
-{"OEM Vendor Name":"Simplo","OEM Vendor No":"VUS0010120","Apple Vendor Code":"004031M","Update Timestamp":"09/05/2018"},
-{"OEM Vendor Name":"Flexium","OEM Vendor No":"VTW0011062","Apple Vendor Code":"005055M","Update Timestamp":"09/05/2018"},
-{"OEM Vendor Name":"DESAY","OEM Vendor No":"VTW0000013_DESAY","Apple Vendor Code":"005050M","Update Timestamp":"09/05/2018"},
-{"OEM Vendor Name":"GIS","OEM Vendor No":"VUS0010120_GIS","Apple Vendor Code":"005124M","Update Timestamp":"03/20/2019"},
-{"OEM Vendor Name":"ASE","OEM Vendor No":"VTW0000013_ASE","Apple Vendor Code":"005158M","Update Timestamp":"09/05/2018"},
-{"OEM Vendor Name":"JSCC","OEM Vendor No":"VTW0000013_SK HYNIX","Apple Vendor Code":"005779M","Update Timestamp":"04/23/2019"},
-{"OEM Vendor Name":"Pioneer","OEM Vendor No":"VWS0010007","Apple Vendor Code":"002514M","Update Timestamp":"04/16/2019"},
-{"OEM Vendor Name":"Marian (Suzhou)","OEM Vendor No":"VUS0010416","Apple Vendor Code":"004674M","Update Timestamp":"04/17/2019"},
-{"OEM Vendor Name":"Tripod","OEM Vendor No":"VTW0000013_TRIPOD","Apple Vendor Code":"002465M","Update Timestamp":"04/18/2019"},
-{"OEM Vendor Name":"Tripod","OEM Vendor No":"VVG0010018","Apple Vendor Code":"002465M","Update Timestamp":"04/18/2019"},
-{"OEM Vendor Name":"JSCC","OEM Vendor No":"VTW0000013_TOSHIBA","Apple Vendor Code":"005779M","Update Timestamp":"04/23/2019"},
-{"OEM Vendor Name":"DongShang BJ","OEM Vendor No":"VCN0025076","Apple Vendor Code":"005378M","Update Timestamp":"04/08/2019"},
-{"OEM Vendor Name":"Tong Da","OEM Vendor No":"VHK0011392","Apple Vendor Code":"005558M","Update Timestamp":"05/06/2019"},
-{"OEM Vendor Name":"SZS","OEM Vendor No":"VTW0010693","Apple Vendor Code":"004127M","Update Timestamp":"04/08/2019"},
-{"OEM Vendor Name":"Goertek","OEM Vendor No":"VCN0022411","Apple Vendor Code":"004797M","Update Timestamp":"04/26/2019"},
-{"OEM Vendor Name":"AMP","OEM Vendor No":"VCN0020356","Apple Vendor Code":"000049M","Update Timestamp":"04/08/2019"}
+[
+  {
+    "VendorName": "BROADWAY PACKAGING (HK)",
+    "VendorNo": "VBP001",
+    "AppleVendorCode": "001212M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "CASETEK COMPUTER (SUZHOU) CO.,LTD.",
+    "VendorNo": 7174654971,
+    "AppleVendorCode": "004276M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "CHEMI-CON INC.",
+    "VendorNo": "VHC051",
+    "AppleVendorCode": "000864M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "CHEMI-CON INC.",
+    "VendorNo": "VHK0010559",
+    "AppleVendorCode": "000864M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "CHUNG MING INTERNATIONAL LTD.",
+    "VendorNo": "VCM491",
+    "AppleVendorCode": "004485M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "CIRRUS LOGIC INC.",
+    "VendorNo": "VUS0010186",
+    "AppleVendorCode": "002076M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "CIRRUS LOGIC INC.",
+    "VendorNo": "VCL051",
+    "AppleVendorCode": "002076M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "CLC",
+    "VendorNo": "VCN0016509",
+    "AppleVendorCode": "002323M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "CLC",
+    "VendorNo": "VCN0019898",
+    "AppleVendorCode": "002323M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "CLC",
+    "VendorNo": "79625876X1",
+    "AppleVendorCode": "002323M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "CLC",
+    "VendorNo": 6947239900,
+    "AppleVendorCode": "002323M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "COILCRAFT",
+    "VendorNo": "VCH001",
+    "AppleVendorCode": "000167M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "COILCRAFT",
+    "VendorNo": "VVG0010030",
+    "AppleVendorCode": "000167M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "COMPEQ",
+    "VendorNo": "VCM001",
+    "AppleVendorCode": "001357M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "COSMO",
+    "VendorNo": "VCL361",
+    "AppleVendorCode": "003957M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "CYNTEC",
+    "VendorNo": "VCI651",
+    "AppleVendorCode": "003226M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "CYNTEC",
+    "VendorNo": "VCI651_CYNTEC",
+    "AppleVendorCode": "003226M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "CYNTEC",
+    "VendorNo": "VVG0010031",
+    "AppleVendorCode": "003226M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Career",
+    "VendorNo": "VTW0011354",
+    "AppleVendorCode": "003856M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Career",
+    "VendorNo": "VCT671",
+    "AppleVendorCode": "003856M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Catcher",
+    "VendorNo": 9756431411,
+    "AppleVendorCode": "003241M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Catcher",
+    "VendorNo": 7855562271,
+    "AppleVendorCode": "003241M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Catcher",
+    "VendorNo": 7272795321,
+    "AppleVendorCode": "003241M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Cateron",
+    "VendorNo": "VCN0018601",
+    "AppleVendorCode": "004137M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Cateron",
+    "VendorNo": 7230383441,
+    "AppleVendorCode": "004137M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Ceratech",
+    "VendorNo": "VCC161",
+    "AppleVendorCode": "001734M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Ceratech",
+    "VendorNo": 64917951,
+    "AppleVendorCode": "001734M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Changyun",
+    "VendorNo": "VCN0020251",
+    "AppleVendorCode": "004334M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Changyun",
+    "VendorNo": 7546039831,
+    "AppleVendorCode": "004334M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "CymMetrik",
+    "VendorNo": 6189099531,
+    "AppleVendorCode": "004036M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "CymMetrik",
+    "VendorNo": 6189099530,
+    "AppleVendorCode": "004036M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "CymMetrik",
+    "VendorNo": "VCN0021551",
+    "AppleVendorCode": "004036M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Cyntec",
+    "VendorNo": "VCI651_YOKOHAMA",
+    "AppleVendorCode": "004176M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "DA-DING",
+    "VendorNo": "41192644A1",
+    "AppleVendorCode": "003924M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "DA-DING",
+    "VendorNo": "VDD991",
+    "AppleVendorCode": "003924M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "DARFON",
+    "VendorNo": 7311213591,
+    "AppleVendorCode": "003189M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "DARFON",
+    "VendorNo": "V133F1",
+    "AppleVendorCode": "003189M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "DARFON ELECTRONICS",
+    "VendorNo": 7168050151,
+    "AppleVendorCode": "003189M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "DARFON ELECTRONICS CORP.",
+    "VendorNo": "VDE091",
+    "AppleVendorCode": "003189M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "DARFON ELECTRONICS CORPORATION - 003189M",
+    "VendorNo": "VCN0017121",
+    "AppleVendorCode": "003189M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "DELTA",
+    "VendorNo": "VDE041",
+    "AppleVendorCode": "000221M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "DIODES",
+    "VendorNo": "VDH021",
+    "AppleVendorCode": "002358M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "DONGGUAN DONNELLEY PRINTING CO.LTD.",
+    "VendorNo": "VDD051",
+    "AppleVendorCode": "002433M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "DYNAPACK",
+    "VendorNo": "VDI001",
+    "AppleVendorCode": "003997M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "RI-TENG",
+    "VendorNo": "VRT181",
+    "AppleVendorCode": "004309M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "RI-TENG COMPUTER ACCESSORY (SHANGHAI) CO.,LTD",
+    "VendorNo": "VCN0017903",
+    "AppleVendorCode": "004309M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "ROHM",
+    "VendorNo": "VRE141",
+    "AppleVendorCode": "000678M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "ROHM",
+    "VendorNo": 2244881301,
+    "AppleVendorCode": "000678M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "ROHM",
+    "VendorNo": "VTW0011433",
+    "AppleVendorCode": "000678M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "RYPAX",
+    "VendorNo": 8100544821,
+    "AppleVendorCode": "004575M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "SAMSUNG",
+    "VendorNo": "VDS211",
+    "AppleVendorCode": "000695M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "SAMSUNG",
+    "VendorNo": "VSE311",
+    "AppleVendorCode": "000931M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "SAMSUNG-EMC",
+    "VendorNo": "VCN0016400",
+    "AppleVendorCode": "000695M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "SAMTEC",
+    "VendorNo": "VSA161",
+    "AppleVendorCode": "000696M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "SANSHIN(JAE)",
+    "VendorNo": "V85021",
+    "AppleVendorCode": "000400M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "SANYO",
+    "VendorNo": 5023090891,
+    "AppleVendorCode": "000705M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "SANYO",
+    "VendorNo": "VHK0010383",
+    "AppleVendorCode": "000705M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "SANYO",
+    "VendorNo": "VSE051",
+    "AppleVendorCode": "000705M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "SATORI",
+    "VendorNo": "VSA051_NEC",
+    "AppleVendorCode": "000550M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "SEAGATE",
+    "VendorNo": "VUS0010120_SEAGATE",
+    "AppleVendorCode": "000716M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "SIAU CHON",
+    "VendorNo": 7424816081,
+    "AppleVendorCode": "004337M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "SIAU CHOU",
+    "VendorNo": "VCN0017147",
+    "AppleVendorCode": "004337M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "SINGHOME",
+    "VendorNo": 6177633230,
+    "AppleVendorCode": "005213M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "SMK ELECTRONICS -",
+    "VendorNo": "VUS0010345",
+    "AppleVendorCode": "000750M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "SMK ELECTRONICS -",
+    "VendorNo": "VSE3B1",
+    "AppleVendorCode": "000750M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "SMSC",
+    "VendorNo": "VIE0010009",
+    "AppleVendorCode": "004042M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "SMSC",
+    "VendorNo": "VMT311",
+    "AppleVendorCode": "004042M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "SMSC",
+    "VendorNo": "VSM161",
+    "AppleVendorCode": "004042M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "SMSC",
+    "VendorNo": 9000031011,
+    "AppleVendorCode": "004042M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "SMSC",
+    "VendorNo": "VST961",
+    "AppleVendorCode": "004042M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "SOLECTRON",
+    "VendorNo": "VSSS61",
+    "AppleVendorCode": "000756M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "SONY CORPORATION OF HONG KONG LTD.",
+    "VendorNo": "VSC191",
+    "AppleVendorCode": "004377M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "ST",
+    "VendorNo": "VSA141",
+    "AppleVendorCode": "000729M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "ST",
+    "VendorNo": "VSG0010131",
+    "AppleVendorCode": "000729M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "STEWARD",
+    "VendorNo": "VSP011",
+    "AppleVendorCode": "000203M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "SUNON",
+    "VendorNo": "VSE251",
+    "AppleVendorCode": "003000M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "SUNON",
+    "VendorNo": 7222649211,
+    "AppleVendorCode": "003000M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "SUPERMAX CO.LTD.",
+    "VendorNo": "VSC961",
+    "AppleVendorCode": "004335M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Samsung",
+    "VendorNo": "VIE0010018",
+    "AppleVendorCode": "000695M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Sandisk Corporation",
+    "VendorNo": "VUS0010120_SANDISK",
+    "AppleVendorCode": "003967M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "ShenZhen Broadway Packing Co.,Ltd",
+    "VendorNo": "VCN0013669",
+    "AppleVendorCode": "001212M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "ShenZhen Broadway Packing Co.,Ltd",
+    "VendorNo": 7904550171,
+    "AppleVendorCode": "001212M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Shimano＿＿Inc＿＿-＿＿",
+    "VendorNo": "VPC033",
+    "AppleVendorCode": "004354M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Shin Zu Shing",
+    "VendorNo": "35702345A1",
+    "AppleVendorCode": "004127M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Shin Zu Shing",
+    "VendorNo": "VCN0020570",
+    "AppleVendorCode": "004127M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Simplo",
+    "VendorNo": "VTW0011421",
+    "AppleVendorCode": "004031M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Simplo",
+    "VendorNo": "VCN0021833",
+    "AppleVendorCode": "004031M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Simplo",
+    "VendorNo": "VST521",
+    "AppleVendorCode": "004031M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Speedtech",
+    "VendorNo": "VST791",
+    "AppleVendorCode": "003794M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Sunrex",
+    "VendorNo": 7244412151,
+    "AppleVendorCode": "003763M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Sunrex",
+    "VendorNo": "VSTS61",
+    "AppleVendorCode": "003763M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Sunrex Technology Corp - 003763M",
+    "VendorNo": "VCN0016418",
+    "AppleVendorCode": "003763M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Superworld",
+    "VendorNo": "VSES01",
+    "AppleVendorCode": "003832M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Superworld",
+    "VendorNo": "VSG0010037",
+    "AppleVendorCode": "003832M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Superworld",
+    "VendorNo": "VSG0010037",
+    "AppleVendorCode": "004495M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Superworld",
+    "VendorNo": "VSES01",
+    "AppleVendorCode": "004495M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Suyin",
+    "VendorNo": "VSC541",
+    "AppleVendorCode": "002327M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Suyin",
+    "VendorNo": "VTW0010761",
+    "AppleVendorCode": "002327M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Suzhou Panel",
+    "VendorNo": "VCN0022252",
+    "AppleVendorCode": "004087M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Suzhou Panel",
+    "VendorNo": 7395516361,
+    "AppleVendorCode": "004087M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "TAIWAN POWDER",
+    "VendorNo": "VTP161",
+    "AppleVendorCode": "004216M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "TAIWAN SUMIDA ELECTRONICS INC.",
+    "VendorNo": "VTS251",
+    "AppleVendorCode": "001542M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "TAIYO",
+    "VendorNo": "VTW0011428",
+    "AppleVendorCode": "000807M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "TAIYO",
+    "VendorNo": "VTT021",
+    "AppleVendorCode": "000807M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "TDK",
+    "VendorNo": "VHK0010312",
+    "AppleVendorCode": "000811M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "TDK",
+    "VendorNo": "VTH111",
+    "AppleVendorCode": "000811M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "THIN FILM TECHNOLOGY",
+    "VendorNo": "VTF211",
+    "AppleVendorCode": "004175M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "TOKO",
+    "VendorNo": "VCN0019441",
+    "AppleVendorCode": "001718M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "TOKO",
+    "VendorNo": "VHK0010537",
+    "AppleVendorCode": "001718M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "TOKO",
+    "VendorNo": "VTE681",
+    "AppleVendorCode": "001718M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "TOKUTSU",
+    "VendorNo": "VTT791",
+    "AppleVendorCode": "000401M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "TOYO",
+    "VendorNo": "VCN0019441",
+    "AppleVendorCode": "003254M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "TPK",
+    "VendorNo": "VTW0011611",
+    "AppleVendorCode": "004249M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "TPK",
+    "VendorNo": 5300693101,
+    "AppleVendorCode": "004249M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "TRIPOD",
+    "VendorNo": "VTO081",
+    "AppleVendorCode": "002465M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "TXC",
+    "VendorNo": "V05CJ1",
+    "AppleVendorCode": "002435M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "TXC",
+    "VendorNo": "VTW0011457",
+    "AppleVendorCode": "002435M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "TYCO",
+    "VendorNo": "VTE201",
+    "AppleVendorCode": "002056M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "TYCO",
+    "VendorNo": "VTE401_RAYCHEM",
+    "AppleVendorCode": "001182M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "TYCO",
+    "VendorNo": "VTE401_TYCO",
+    "AppleVendorCode": "002056M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "TYCO",
+    "VendorNo": "VTE401_TE",
+    "AppleVendorCode": "001182M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Tai Yi",
+    "VendorNo": "VHC331",
+    "AppleVendorCode": "002321M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Tai Yi",
+    "VendorNo": "VCN0018886",
+    "AppleVendorCode": "002321M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Tai Yi",
+    "VendorNo": 7310995501,
+    "AppleVendorCode": "002321M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Tennrich Technology",
+    "VendorNo": 7168475302,
+    "AppleVendorCode": "003059M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Tennrich Technology",
+    "VendorNo": "VCN0019718",
+    "AppleVendorCode": "003059M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Topo Tech ( Catcher )",
+    "VendorNo": "VTT731",
+    "AppleVendorCode": "003241M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Toshiba",
+    "VendorNo": "VTE151",
+    "AppleVendorCode": "000841M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Toshiba",
+    "VendorNo": "VTD011",
+    "AppleVendorCode": "000841M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Tripod",
+    "VendorNo": "VTT2A1",
+    "AppleVendorCode": "002465M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "ULTRA SOURCE",
+    "VendorNo": "VUS051_PANASONIC",
+    "AppleVendorCode": "000593M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "UNIVERSAL (USI )",
+    "VendorNo": "VCN0018693",
+    "AppleVendorCode": "002261M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "UNIVERSAL (USI )",
+    "VendorNo": "VUS091",
+    "AppleVendorCode": "002261M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "VITALO",
+    "VendorNo": 7083086761,
+    "AppleVendorCode": "004576M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "VITALO",
+    "VendorNo": 7083086760,
+    "AppleVendorCode": "004576M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Volex",
+    "VendorNo": "VCN0021986",
+    "AppleVendorCode": "000484M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Volex",
+    "VendorNo": "VVC141",
+    "AppleVendorCode": "000484M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Volex",
+    "VendorNo": 6188966891,
+    "AppleVendorCode": "000484M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "WEIKENG",
+    "VendorNo": "V89051_IR",
+    "AppleVendorCode": "000386M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "WEIKENG",
+    "VendorNo": "V89051_SILEGO",
+    "AppleVendorCode": "004285M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "WPI",
+    "VendorNo": "V850K1_TI",
+    "AppleVendorCode": "000822M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "WPI",
+    "VendorNo": "V850K1_TOSHIBA",
+    "AppleVendorCode": "000841M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "WPI",
+    "VendorNo": "V850K1_SILICONIX",
+    "AppleVendorCode": "000743M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "WPI",
+    "VendorNo": "V850K1_NS",
+    "AppleVendorCode": "000544M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "WPI",
+    "VendorNo": "V850K1_VISHAY",
+    "AppleVendorCode": "000213M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "WT",
+    "VendorNo": "VWM121_IR",
+    "AppleVendorCode": "000386M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "WT",
+    "VendorNo": "VWM121_TI",
+    "AppleVendorCode": "000822M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "DYNAPACK",
+    "VendorNo": "VTW0011481",
+    "AppleVendorCode": "003997M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "DYnamic Electronics",
+    "VendorNo": "VDE231",
+    "AppleVendorCode": "004391M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "DaDing",
+    "VendorNo": "VCN0017581",
+    "AppleVendorCode": "003924M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Dahsing ( KOA )",
+    "VendorNo": "VDH051_KOA",
+    "AppleVendorCode": "000435M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Dongguan Yafeng Computer",
+    "VendorNo": 7259870171,
+    "AppleVendorCode": "004294M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "EASTGATE TECHNOLOGY PTE",
+    "VendorNo": "VMT271",
+    "AppleVendorCode": "001593M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "EPSON",
+    "VendorNo": "VTW0011379",
+    "AppleVendorCode": "001404M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "EPSON",
+    "VendorNo": "V05JD1",
+    "AppleVendorCode": "001404M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Epic Music",
+    "VendorNo": "VSE731",
+    "AppleVendorCode": "003861M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Epic Music ( Sony )",
+    "VendorNo": 7109380361,
+    "AppleVendorCode": "003861M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Evergreen",
+    "VendorNo": 7701767231,
+    "AppleVendorCode": "000939M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "FEEL CHERNG",
+    "VendorNo": "VFC191_ITTI",
+    "AppleVendorCode": "003998M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "FORTUNE",
+    "VendorNo": "0507448841",
+    "AppleVendorCode": "003863M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "FORTUNE",
+    "VendorNo": "VCN0018913",
+    "AppleVendorCode": "003863M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "FOXCONN",
+    "VendorNo": "70842022X0",
+    "AppleVendorCode": "000295M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "FOXCONN ( Altus )",
+    "VendorNo": 7261719171,
+    "AppleVendorCode": "000295M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "FOXCONN ( Altus )",
+    "VendorNo": "VHH051",
+    "AppleVendorCode": "000295M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "FOXCONN ( Altus )",
+    "VendorNo": 283665091,
+    "AppleVendorCode": "000295M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "FOXCONN ( MAC2)",
+    "VendorNo": 7896988552,
+    "AppleVendorCode": "000295M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "FOXCONN ( MAC2)",
+    "VendorNo": 7896988551,
+    "AppleVendorCode": "000295M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "FOXCONN( FuZhun)",
+    "VendorNo": 7084202201,
+    "AppleVendorCode": "000295M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "FOXCONN(HH)",
+    "VendorNo": "ACFT001",
+    "AppleVendorCode": "000295M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "FOXLINK",
+    "VendorNo": "VCU041",
+    "AppleVendorCode": "003533M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "FOXLINK",
+    "VendorNo": "VCU041",
+    "AppleVendorCode": "003009M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "FOXLINK",
+    "VendorNo": "VTW0011313",
+    "AppleVendorCode": "003533M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "FOXLINK",
+    "VendorNo": "VTW0011313",
+    "AppleVendorCode": "003009M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "FRD",
+    "VendorNo": "2794071811_FRD",
+    "AppleVendorCode": "000089M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "FRONTEK",
+    "VendorNo": "VFT191_AOS",
+    "AppleVendorCode": "004265M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "FRONTEK",
+    "VendorNo": "VFT191_SEMTECH",
+    "AppleVendorCode": "001786M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "FUJI crystal",
+    "VendorNo": "VBC331",
+    "AppleVendorCode": "004403M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "FUJIKURA",
+    "VendorNo": "VFH121",
+    "AppleVendorCode": "001582M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "FUJIKURA",
+    "VendorNo": "VTW0011397",
+    "AppleVendorCode": "001582M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "FUJIKURA",
+    "VendorNo": "VTW0011397",
+    "AppleVendorCode": "001421M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "FUJIKURA",
+    "VendorNo": "VFH121",
+    "AppleVendorCode": "001421M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "FUNCTION",
+    "VendorNo": "VFT351_SUMIDA",
+    "AppleVendorCode": "001542M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "FURUKAWA",
+    "VendorNo": "VFS251",
+    "AppleVendorCode": "000301M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "FURUKAWA SHANGHAI,LTD",
+    "VendorNo": "VCN0019876",
+    "AppleVendorCode": "000301M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Flexium",
+    "VendorNo": "VFI391",
+    "AppleVendorCode": "004398M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Forgrand",
+    "VendorNo": "VCN0017098",
+    "AppleVendorCode": "003863M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Fortune Grand",
+    "VendorNo": 7792129031,
+    "AppleVendorCode": "003863M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Fortune Grand",
+    "VendorNo": "VFI351",
+    "AppleVendorCode": "003863M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Fortune Grand",
+    "VendorNo": 7301173231,
+    "AppleVendorCode": "003863M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Foxconn ( IRIS World )",
+    "VendorNo": "VVG0000003",
+    "AppleVendorCode": "000295M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Foxconn ( IRIS World )",
+    "VendorNo": "VIW021",
+    "AppleVendorCode": "000295M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Foxconn ( QUANYIDA) TECH",
+    "VendorNo": 7718864010,
+    "AppleVendorCode": "000295M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Foxconn (AMBIT )",
+    "VendorNo": 7084307431,
+    "AppleVendorCode": "000295M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Foxconn (BU2 / McEG)",
+    "VendorNo": "TOU007",
+    "AppleVendorCode": "000295M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Foxconn (BU3 / NWING)",
+    "VendorNo": 7589889721,
+    "AppleVendorCode": "000295M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Foxconn (BU3 / NWING)",
+    "VendorNo": "VTW0000013",
+    "AppleVendorCode": "000295M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Foxconn (BU3 / NWING)",
+    "VendorNo": "VHH1031",
+    "AppleVendorCode": "000295M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Foxconn ChampTech.Co. ( Thermal 1)",
+    "VendorNo": "ACFT391",
+    "AppleVendorCode": "000295M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Foxconn FUTAIHUA Precision(Shenzhen)Co.,Ltd",
+    "VendorNo": 7992292431,
+    "AppleVendorCode": "000295M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Freescale Semiconductor Inc.",
+    "VendorNo": 2000110731,
+    "AppleVendorCode": "004043M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "GALAXY(GENESYS)",
+    "VendorNo": "VTW0011404_GENESYS",
+    "AppleVendorCode": "002272M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "GCE",
+    "VendorNo": "VGC011",
+    "AppleVendorCode": "001796M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "GEC",
+    "VendorNo": "VAE491_LITTELFUSE",
+    "AppleVendorCode": "000462M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "GMI",
+    "VendorNo": "V054W1_TOSHIBA",
+    "AppleVendorCode": "000841M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "GMI",
+    "VendorNo": "V054W1_REALTEK",
+    "AppleVendorCode": "004218M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "GREENPOINT",
+    "VendorNo": "VSG0010059",
+    "AppleVendorCode": "004563M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "GREENPOINT",
+    "VendorNo": "VJC241",
+    "AppleVendorCode": "004563M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Global Lighting",
+    "VendorNo": 6229767441,
+    "AppleVendorCode": "004395M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Green Point",
+    "VendorNo": "VSG0010059",
+    "AppleVendorCode": "004079M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Green Point",
+    "VendorNo": 8193580951,
+    "AppleVendorCode": "004079M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Green Point",
+    "VendorNo": "VSG0010163",
+    "AppleVendorCode": "004079M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Green Point",
+    "VendorNo": "VGP291",
+    "AppleVendorCode": "004563M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "HAS",
+    "VendorNo": "VHE201_AVX",
+    "AppleVendorCode": "000073M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "HAS",
+    "VendorNo": "VHE201_JOHANSON",
+    "AppleVendorCode": "000405M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "HENKEL ADHESIVE TECHNOLOGIES (HK) LIMITED",
+    "VendorNo": 40891,
+    "AppleVendorCode": "000463M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "HGST",
+    "VendorNo": "VHG061",
+    "AppleVendorCode": "000348M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "HH",
+    "VendorNo": "HONHAIP021",
+    "AppleVendorCode": "000295M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "HIGHLAND(Vishay)",
+    "VendorNo": "VHE141_VISHAY",
+    "AppleVendorCode": "000213M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "HIGHLAND(Vishay)",
+    "VendorNo": "VTW0011406_VISHAY",
+    "AppleVendorCode": "000213M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "HIROSE ELECT",
+    "VendorNo": "VJP0010036",
+    "AppleVendorCode": "000347M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "HIROSE ELECT.",
+    "VendorNo": "VHE191",
+    "AppleVendorCode": "000347M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "HITACHI",
+    "VendorNo": "VHC231",
+    "AppleVendorCode": "000348M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "HITACHI GLOBAL STORAGE TECHNOLOGIES",
+    "VendorNo": "VUS0010120_HGST",
+    "AppleVendorCode": "004642M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "HLDS",
+    "VendorNo": "VHK0010554",
+    "AppleVendorCode": "001625M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "HLDS",
+    "VendorNo": "VLI111",
+    "AppleVendorCode": "001625M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "HONG CHANG",
+    "VendorNo": "VES221",
+    "AppleVendorCode": "004331M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "HONG CHANG ( KSCH )",
+    "VendorNo": 7251976051,
+    "AppleVendorCode": "004331M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "HONG CHANG ( KSCH )",
+    "VendorNo": "VCN0021730",
+    "AppleVendorCode": "004331M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "HONHAI",
+    "VendorNo": "HONHAIP021_FOXCONN",
+    "AppleVendorCode": "000295M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "HOSONIC",
+    "VendorNo": "VHE251",
+    "AppleVendorCode": "003775M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Hama Naka Shoukin",
+    "VendorNo": "VCN0016850",
+    "AppleVendorCode": "003894M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Hama Naka Shoukin",
+    "VendorNo": 7251975331,
+    "AppleVendorCode": "003894M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Highland",
+    "VendorNo": "VHE141_VISHAY",
+    "AppleVendorCode": "000773M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Holy stone",
+    "VendorNo": "VHS191",
+    "AppleVendorCode": "004573M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Huangjyil",
+    "VendorNo": "VTW0010623",
+    "AppleVendorCode": "003740M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Huangjyil",
+    "VendorNo": "VHE441",
+    "AppleVendorCode": "003740M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Hung-Yi-Jing",
+    "VendorNo": 7362563671,
+    "AppleVendorCode": "000295M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Hynix Semiconductor",
+    "VendorNo": "VUS0010120_SK HYNIX",
+    "AppleVendorCode": "001161M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "I-PEX",
+    "VendorNo": "VIP221",
+    "AppleVendorCode": "003096M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "ICT- LANTO",
+    "VendorNo": "VHK0010504",
+    "AppleVendorCode": "004531M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "ICT- LANTO",
+    "VendorNo": 2000030991,
+    "AppleVendorCode": "004531M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "INTERNATIONAL PAPER DISTRIBUTI",
+    "VendorNo": "VCN0016969",
+    "AppleVendorCode": "003954M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "INTERNATIONAL PAPER MANUFACTURING & DISTRIBUTION",
+    "VendorNo": 7000020801,
+    "AppleVendorCode": "000388M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "INTERSIL",
+    "VendorNo": "VIC131",
+    "AppleVendorCode": "000387M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "INTRAMEDIA",
+    "VendorNo": "VCN0017021",
+    "AppleVendorCode": "002320M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "INTRAMEDIA",
+    "VendorNo": 7333382951,
+    "AppleVendorCode": "002320M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "INTRAMEDIA",
+    "VendorNo": 7333382950,
+    "AppleVendorCode": "002320M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "IPEX",
+    "VendorNo": "VJP0010019",
+    "AppleVendorCode": "003096M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "IPEX",
+    "VendorNo": 1025946001,
+    "AppleVendorCode": "003096M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "IPS",
+    "VendorNo": "VIP041",
+    "AppleVendorCode": "000385M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Infenion",
+    "VendorNo": "VTW0011136_INFINEON",
+    "AppleVendorCode": "003866M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Infineon",
+    "VendorNo": "VIT081",
+    "AppleVendorCode": "003866M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Intel",
+    "VendorNo": "VUS0010120_INTEL",
+    "AppleVendorCode": "000382M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Intelec",
+    "VendorNo": "VIT051",
+    "AppleVendorCode": "003514M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "JABIL",
+    "VendorNo": "VSG0010059",
+    "AppleVendorCode": "002112M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "JABIL",
+    "VendorNo": "25649376B1",
+    "AppleVendorCode": "002112M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "JABIL",
+    "VendorNo": 7256493760,
+    "AppleVendorCode": "002112M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "JARRLYTEC CO",
+    "VendorNo": "VJC261",
+    "AppleVendorCode": "004330M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "JARRLYTEC CO",
+    "VendorNo": "VTW0011252",
+    "AppleVendorCode": "004330M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "JEN HAUR",
+    "VendorNo": "VJP001",
+    "AppleVendorCode": "002322M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "JEN HAUR",
+    "VendorNo": 7461564310,
+    "AppleVendorCode": "002322M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "JIAN SHENG",
+    "VendorNo": 6188602130,
+    "AppleVendorCode": "002475M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "JPC",
+    "VendorNo": "VJL111",
+    "AppleVendorCode": "004099M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Jabil",
+    "VendorNo": 8193580951,
+    "AppleVendorCode": "004563M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Jabil",
+    "VendorNo": "VSG0010163",
+    "AppleVendorCode": "004563M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Jen-haur",
+    "VendorNo": "VCN0017424",
+    "AppleVendorCode": "002322M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Jeou Uei",
+    "VendorNo": 5627722991,
+    "AppleVendorCode": "003881M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Jeou Uei",
+    "VendorNo": "VCN0019543",
+    "AppleVendorCode": "003881M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Jeou Uei",
+    "VendorNo": 7085096381,
+    "AppleVendorCode": "003881M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Jiesheng",
+    "VendorNo": 7638321711,
+    "AppleVendorCode": "004339M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "KAEDAR",
+    "VendorNo": "VKE381",
+    "AppleVendorCode": "004183M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "KAEDAR",
+    "VendorNo": "VCN0015714",
+    "AppleVendorCode": "004183M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "KAIDA",
+    "VendorNo": 7251825261,
+    "AppleVendorCode": "004183M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "KAILY PACKAGING",
+    "VendorNo": "VKP071",
+    "AppleVendorCode": "000414M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "KAITEK",
+    "VendorNo": "VKP051_SII",
+    "AppleVendorCode": "000721M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "KEMET",
+    "VendorNo": "VKE241",
+    "AppleVendorCode": "000423M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "KENT＿＿ LANDSBERG",
+    "VendorNo": 1000550451,
+    "AppleVendorCode": "000426M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "KOSUN",
+    "VendorNo": "VKP111",
+    "AppleVendorCode": "000295M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "LAIRD",
+    "VendorNo": "VCN0018601",
+    "AppleVendorCode": "003343M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "LATERAL",
+    "VendorNo": "VSG0010102",
+    "AppleVendorCode": "004506M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "LG Display",
+    "VendorNo": "VIE0010018",
+    "AppleVendorCode": "001625M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "LINEAR TECHNOLOGY",
+    "VendorNo": "VLT411",
+    "AppleVendorCode": "000459M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "LINEAR TECHNOLOGY",
+    "VendorNo": "VSG0010104",
+    "AppleVendorCode": "000459M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "LITEON",
+    "VendorNo": "VTW0011051",
+    "AppleVendorCode": "001650M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "LONG FEI",
+    "VendorNo": 7527231721,
+    "AppleVendorCode": "004336M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "LONG FEI",
+    "VendorNo": "VLF091",
+    "AppleVendorCode": "004336M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "LONGWELL",
+    "VendorNo": "X188901791",
+    "AppleVendorCode": "000466M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "LONGWELL",
+    "VendorNo": "VTW0011121",
+    "AppleVendorCode": "000466M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "LONGWELL",
+    "VendorNo": "V07931",
+    "AppleVendorCode": "000466M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "LSI",
+    "VendorNo": 2538480371,
+    "AppleVendorCode": "000467M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "LSI",
+    "VendorNo": 1253848031,
+    "AppleVendorCode": "000467M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "LSI",
+    "VendorNo": "VLL201",
+    "AppleVendorCode": "000467M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "LSI",
+    "VendorNo": "VSG0010106",
+    "AppleVendorCode": "000467M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Laird",
+    "VendorNo": 7230383441,
+    "AppleVendorCode": "001932M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Laird",
+    "VendorNo": "VCN0018601",
+    "AppleVendorCode": "001932M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Liow Ko",
+    "VendorNo": "VDM131",
+    "AppleVendorCode": "003250M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Liowko",
+    "VendorNo": "VCN0022081",
+    "AppleVendorCode": "003250M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Liowko",
+    "VendorNo": 7411710261,
+    "AppleVendorCode": "003250M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Long-Young Electronix (LYE)",
+    "VendorNo": "18672527B1",
+    "AppleVendorCode": "004695M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Long-Young Electronix (LYE)",
+    "VendorNo": "VCN0021808",
+    "AppleVendorCode": "004695M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "M-FLEX",
+    "VendorNo": "VSG0010164",
+    "AppleVendorCode": "002199M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "M-FLEX",
+    "VendorNo": "VMF001",
+    "AppleVendorCode": "002199M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "MARVELL ASIA PTE LTD.",
+    "VendorNo": "VMA191",
+    "AppleVendorCode": "003055M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "MATSUSHITA/PANASONIC",
+    "VendorNo": "VTW0010005",
+    "AppleVendorCode": "000593M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "MATSUSHITA/PANASONIC",
+    "VendorNo": "VTW0011167",
+    "AppleVendorCode": "000705M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "MATSUSHITA/PANASONIC",
+    "VendorNo": "VTW0011167",
+    "AppleVendorCode": "000593M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "MATSUSHITA/PANASONIC",
+    "VendorNo": "VPI121",
+    "AppleVendorCode": "000593M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "MATSUSHITA/PANASONIC",
+    "VendorNo": "VTW0011427",
+    "AppleVendorCode": "000593M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "MAXIM",
+    "VendorNo": "VMI031",
+    "AppleVendorCode": "001489M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "MAXIM",
+    "VendorNo": 5523202211,
+    "AppleVendorCode": "001489M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "MAXIM",
+    "VendorNo": "VIE0010002",
+    "AppleVendorCode": "001489M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "MEKTEC",
+    "VendorNo": "VMT511",
+    "AppleVendorCode": "001481M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "MEKTEC CORPORATION",
+    "VendorNo": "VTW0010762",
+    "AppleVendorCode": "001481M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "MICRON SEMICONDUCTOR PROD INC",
+    "VendorNo": "VUS0010120_MICRON",
+    "AppleVendorCode": "000506M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "MICROSOFT",
+    "VendorNo": 2546830101,
+    "AppleVendorCode": "001698M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "MITSUMI",
+    "VendorNo": "VME121",
+    "AppleVendorCode": "000519M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "MOLEX",
+    "VendorNo": "VMH051",
+    "AppleVendorCode": "000522M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "MOLEX INCORPORATED",
+    "VendorNo": "VHK0010718",
+    "AppleVendorCode": "000522M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "MURATA",
+    "VendorNo": "VMC061",
+    "AppleVendorCode": "000536M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "MWM Acoustics LLC",
+    "VendorNo": "VMA251",
+    "AppleVendorCode": "004172M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "MWM Acoustics LLC",
+    "VendorNo": "VUS0010112",
+    "AppleVendorCode": "004172M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "MWM Acoustics LLC",
+    "VendorNo": 212233911,
+    "AppleVendorCode": "004172M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Mag Layers",
+    "VendorNo": "VML071",
+    "AppleVendorCode": "003184M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Ming Tai",
+    "VendorNo": 6681680651,
+    "AppleVendorCode": "002320M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "NAN YA PRINTED CIRCUIT BOARD CORP.",
+    "VendorNo": "VTW0011509",
+    "AppleVendorCode": "004841M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "NAYU",
+    "VendorNo": 7388296590,
+    "AppleVendorCode": "000295M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "NDK",
+    "VendorNo": "VTW0010885",
+    "AppleVendorCode": "000549M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "NDK",
+    "VendorNo": 8033692001,
+    "AppleVendorCode": "000549M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "NEC TOKIN",
+    "VendorNo": "VTE161",
+    "AppleVendorCode": "000550M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "NVIDIA",
+    "VendorNo": "VNS181",
+    "AppleVendorCode": "002466M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "NWING",
+    "VendorNo": "VTW0000019",
+    "AppleVendorCode": "000295M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "NYPRO",
+    "VendorNo": "VHK0010384",
+    "AppleVendorCode": "001665M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Nanya",
+    "VendorNo": 1609680401,
+    "AppleVendorCode": "004841M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "National Semiconductor (NS)",
+    "VendorNo": "VNA111",
+    "AppleVendorCode": "000544M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Nishoku",
+    "VendorNo": 7036862801,
+    "AppleVendorCode": "003790M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Nishoku",
+    "VendorNo": "VNI021",
+    "AppleVendorCode": "003790M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Nishoku",
+    "VendorNo": "VCN0020305",
+    "AppleVendorCode": "003790M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "ON",
+    "VendorNo": "VTW0011136_ON",
+    "AppleVendorCode": "002360M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "ORIENTAL PRINTED CIRCUITS (OPC)",
+    "VendorNo": "VOP011",
+    "AppleVendorCode": "001733M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "ORIENTAL PRINTED CIRCUITS LTD",
+    "VendorNo": "VHK0010183",
+    "AppleVendorCode": "001733M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "PAISHING",
+    "VendorNo": "VCN0020447",
+    "AppleVendorCode": "005078M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "PAISHING",
+    "VendorNo": 5701186841,
+    "AppleVendorCode": "005078M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "PCH INTERNATIONAL LTD.",
+    "VendorNo": "VPI011",
+    "AppleVendorCode": "002413M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "PERICOM",
+    "VendorNo": "VTW0011136_PERICOM",
+    "AppleVendorCode": "001680M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "PIONEER",
+    "VendorNo": "VPC391",
+    "AppleVendorCode": "002514M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "PIONEER",
+    "VendorNo": 7843567091,
+    "AppleVendorCode": "004294M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "PIONEER",
+    "VendorNo": "VCN0018231",
+    "AppleVendorCode": "004294M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "PRIMAX",
+    "VendorNo": "VPE331",
+    "AppleVendorCode": "001255M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "PRIMAX",
+    "VendorNo": "VTW0011450",
+    "AppleVendorCode": "001255M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "PULSE",
+    "VendorNo": "VSG0010119",
+    "AppleVendorCode": "000633M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Panel",
+    "VendorNo": "VCN0022270",
+    "AppleVendorCode": "004087M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Panel",
+    "VendorNo": 7546313190,
+    "AppleVendorCode": "004087M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Philips Component",
+    "VendorNo": "VTW0011136_NXP",
+    "AppleVendorCode": "000142M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Polymatech",
+    "VendorNo": "VPC541",
+    "AppleVendorCode": "004157M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Polymatech",
+    "VendorNo": "VPC491",
+    "AppleVendorCode": "004157M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Polymatech (Shanghai) Trading Co; Ltd",
+    "VendorNo": "VCN0015434",
+    "AppleVendorCode": "004157M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Prent",
+    "VendorNo": "VCN0016988",
+    "AppleVendorCode": "004016M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Prent",
+    "VendorNo": 7605680451,
+    "AppleVendorCode": "004016M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Promate",
+    "VendorNo": "V18641",
+    "AppleVendorCode": "003031M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Promate",
+    "VendorNo": "V18641_SILEGO",
+    "AppleVendorCode": "004285M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "QUANTA COMPUTER INC.",
+    "VendorNo": "VQC041",
+    "AppleVendorCode": "002019M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "RAYCHEM",
+    "VendorNo": "VTW0011136_TE",
+    "AppleVendorCode": "001182M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "RENESAS",
+    "VendorNo": "VTW0011136_RENESAS",
+    "AppleVendorCode": "000518M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "RENESAS TECHNOLOGY TAIWAN CO.",
+    "VendorNo": "VRT051",
+    "AppleVendorCode": "000518M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "RI-TENG",
+    "VendorNo": 7694219981,
+    "AppleVendorCode": "003924M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "A&J",
+    "VendorNo": 7149933151,
+    "AppleVendorCode": "004341M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "A. FA.",
+    "VendorNo": "VCN0016112",
+    "AppleVendorCode": "002339M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "A. FA.",
+    "VendorNo": "VKR051",
+    "AppleVendorCode": "002339M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "AAC Acoustic",
+    "VendorNo": "VYE031",
+    "AppleVendorCode": "004441M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "ACME",
+    "VendorNo": "VHK0010580",
+    "AppleVendorCode": "004122M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "ACME",
+    "VendorNo": "VAI741",
+    "AppleVendorCode": "004122M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "ACON",
+    "VendorNo": "VTW0011380",
+    "AppleVendorCode": "003455M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "ACON",
+    "VendorNo": "VACI01",
+    "AppleVendorCode": "003455M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "ACON",
+    "VendorNo": "VTW0011380",
+    "AppleVendorCode": "000990M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "ADVANCED COMPONENT TECH. INC.",
+    "VendorNo": "VACI01",
+    "AppleVendorCode": "000990M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "AENEAS ELECTRONICS CO.,LTD.",
+    "VendorNo": "VAE011_RICOH",
+    "AppleVendorCode": "000667M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "AMPHENOL",
+    "VendorNo": "VSA391",
+    "AppleVendorCode": "000049M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "AMPHENOL",
+    "VendorNo": "VCN0018696",
+    "AppleVendorCode": "000049M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "APPLE",
+    "VendorNo": "VAI871_SKHYNIX",
+    "AppleVendorCode": "001161M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "APPLE",
+    "VendorNo": "VAI871_HGST",
+    "AppleVendorCode": "004642M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "APPLE",
+    "VendorNo": "VAI871_NANYA",
+    "AppleVendorCode": "004841M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "APPLE",
+    "VendorNo": "VAI871_AT&s",
+    "AppleVendorCode": "004525M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "APPLE",
+    "VendorNo": "VAI871_FOXCONN",
+    "AppleVendorCode": "000295M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "APPLE",
+    "VendorNo": "2330938711_SAMSUNG",
+    "AppleVendorCode": "000695M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "APPLE",
+    "VendorNo": "2330938711_Sandisk",
+    "AppleVendorCode": "003967M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "APPLE",
+    "VendorNo": "VAI871_MICRON",
+    "AppleVendorCode": "003758M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "APPLE",
+    "VendorNo": "VAI871_AUO",
+    "AppleVendorCode": "003193M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "APPLE",
+    "VendorNo": "VAI871_TRIPOD",
+    "AppleVendorCode": "002465M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "APPLE",
+    "VendorNo": "VAI871_TPK",
+    "AppleVendorCode": "004249M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "APPLE",
+    "VendorNo": "VAI871_CHIMEI",
+    "AppleVendorCode": "002416M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "APPLE",
+    "VendorNo": "VAI871_CMI",
+    "AppleVendorCode": "004417M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "APPLE",
+    "VendorNo": "VAI871_COMPEQ",
+    "AppleVendorCode": "001357M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "APPLE",
+    "VendorNo": "VAI871_ELPIDA",
+    "AppleVendorCode": "003758M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "APPLE",
+    "VendorNo": "VAI871_GCE",
+    "AppleVendorCode": "001796M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "APPLE",
+    "VendorNo": "VAI871_HITACHI",
+    "AppleVendorCode": "004642M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "APPLE",
+    "VendorNo": "VAI871_HYNIX",
+    "AppleVendorCode": "001161M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "APPLE",
+    "VendorNo": "VAI871_INTEL",
+    "AppleVendorCode": "000382M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "APPLE",
+    "VendorNo": "VAI871_LG",
+    "AppleVendorCode": "001625M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "APPLE",
+    "VendorNo": "VAI871_LIOWKO",
+    "AppleVendorCode": "003250M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "APPLE",
+    "VendorNo": "VAI871_MICRON",
+    "AppleVendorCode": "000506M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "APPLE",
+    "VendorNo": "VAI871_NANYA",
+    "AppleVendorCode": "003514M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "APPLE",
+    "VendorNo": "VAI871_NVIDIA",
+    "AppleVendorCode": "002466M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "APPLE",
+    "VendorNo": "VAI871_OPC",
+    "AppleVendorCode": "001733M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "APPLE",
+    "VendorNo": "VAI871_SAMSUNG",
+    "AppleVendorCode": "000695M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "APPLE",
+    "VendorNo": "VAI871_SAMSUNG",
+    "AppleVendorCode": "004735M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "APPLE",
+    "VendorNo": "VAI871_SEAGATE",
+    "AppleVendorCode": "000716M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "APPLE",
+    "VendorNo": "VAI871_SK HYNIX",
+    "AppleVendorCode": "001161M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "APPLE",
+    "VendorNo": "VAI871_TOSHIBA",
+    "AppleVendorCode": "000841M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "ARGOSY",
+    "VendorNo": "VAR131_HONDA",
+    "AppleVendorCode": "001568M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "ARROW",
+    "VendorNo": "VAE171_MICREL",
+    "AppleVendorCode": "001763M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "ARVATO",
+    "VendorNo": "VAD131",
+    "AppleVendorCode": "003821M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "ARVATO DIGITAL SERVICES",
+    "VendorNo": "VHK0010191",
+    "AppleVendorCode": "003821M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "AT&S",
+    "VendorNo": 4000050971,
+    "AppleVendorCode": "004525M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "AU Optronics Corporation",
+    "VendorNo": "VUS0010120_AUO",
+    "AppleVendorCode": "003193M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "AURAS",
+    "VendorNo": "VAT001",
+    "AppleVendorCode": "003783M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "AURAS TECHNOLOGY CO.,LTD.",
+    "VendorNo": "VTW0011500",
+    "AppleVendorCode": "003783M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "AVNET",
+    "VendorNo": "VTW0011136_TI",
+    "AppleVendorCode": "003631M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "AVNET",
+    "VendorNo": "VAA101_FAIRCHILD",
+    "AppleVendorCode": "002195M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "AVNET",
+    "VendorNo": "VAA101A_ST",
+    "AppleVendorCode": "003631M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "AVNET",
+    "VendorNo": "VAA101A_SST",
+    "AppleVendorCode": "003766M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "AVNET",
+    "VendorNo": "VAA101A_RENESAS",
+    "AppleVendorCode": "000518M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "AVNET",
+    "VendorNo": "VAA101A_ATMEL",
+    "AppleVendorCode": "000978M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "AVNET",
+    "VendorNo": "VAA101_TI",
+    "AppleVendorCode": "003631M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "AVNET",
+    "VendorNo": "VAA101A_MXIC",
+    "AppleVendorCode": "001382M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "AVNET",
+    "VendorNo": "VAA101A_NUMONYX",
+    "AppleVendorCode": "004544M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "AVNET",
+    "VendorNo": "VAA101A_MXIC",
+    "AppleVendorCode": "003631M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "AVNET",
+    "VendorNo": "VAA101A_NUMONYX",
+    "AppleVendorCode": "003631M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "AVNET",
+    "VendorNo": 212290011,
+    "AppleVendorCode": "003631M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "AVNET",
+    "VendorNo": "VAA101_AVNET",
+    "AppleVendorCode": "003631M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "AVNET",
+    "VendorNo": "VAA101_CYPRESS",
+    "AppleVendorCode": "001381M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "AVNET",
+    "VendorNo": "VAA101_INFINEON",
+    "AppleVendorCode": "003866M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "AVNET",
+    "VendorNo": "VAA101_NXP",
+    "AppleVendorCode": "004295M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "AVNET",
+    "VendorNo": "VAA101_ON",
+    "AppleVendorCode": "002360M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "AVNET",
+    "VendorNo": "VAA101_PERICOM",
+    "AppleVendorCode": "001680M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "AVNET",
+    "VendorNo": "VAA101_PHILIPS",
+    "AppleVendorCode": "000142M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "AVNET",
+    "VendorNo": "VAA101_RENESAS",
+    "AppleVendorCode": "000518M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "AVNET",
+    "VendorNo": "VAA101_SILEGO",
+    "AppleVendorCode": "004285M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "AVNET",
+    "VendorNo": "VAA101_TE",
+    "AppleVendorCode": "001182M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Amotech",
+    "VendorNo": "VAC931",
+    "AppleVendorCode": "004256M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Amotech",
+    "VendorNo": "VKR0010116",
+    "AppleVendorCode": "004256M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Asia Vital Components Co., Ltd.",
+    "VendorNo": "VTW0011169",
+    "AppleVendorCode": "004190M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Asia Vital Components Co., Ltd.",
+    "VendorNo": "VAV021",
+    "AppleVendorCode": "004190M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Avnet",
+    "VendorNo": "VAA101A_ADESTO",
+    "AppleVendorCode": "000978M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Avnet Electronics",
+    "VendorNo": "VTW0011136_CYPRESS",
+    "AppleVendorCode": "003631M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "BOSCH SENSOR TEC GMBH",
+    "VendorNo": 1655448001,
+    "AppleVendorCode": "004541M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "BROADCOM＿＿CORPORATION＿＿-＿＿",
+    "VendorNo": "VBA081",
+    "AppleVendorCode": "002333M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "BROADCOM＿＿CORPORATION＿＿-＿＿",
+    "VendorNo": "VIE0010017",
+    "AppleVendorCode": "002333M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "BROADCOM＿＿CORPORATION＿＿-＿＿",
+    "VendorNo": "VSG0010068",
+    "AppleVendorCode": "002333M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "BROADWAY PACKAGING (HK)",
+    "VendorNo": "VHK0010576",
+    "AppleVendorCode": "001212M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "MWM",
+    "VendorNo": "VUS0010950",
+    "AppleVendorCode": "004172M",
+    "UpdateTimestamp": "06/02/2016"
+  },
+  {
+    "VendorName": "Compeq",
+    "VendorNo": "VUS0010120_COMPEQ",
+    "AppleVendorCode": "001357M",
+    "UpdateTimestamp": "06/02/2016"
+  },
+  {
+    "VendorName": "Nanya",
+    "VendorNo": "VUS0010120_NANYA",
+    "AppleVendorCode": "004841M",
+    "UpdateTimestamp": "06/02/2016"
+  },
+  {
+    "VendorName": "OPC",
+    "VendorNo": "VUS0010120_OPC",
+    "AppleVendorCode": "001733M",
+    "UpdateTimestamp": "06/02/2016"
+  },
+  {
+    "VendorName": "Nanya",
+    "VendorNo": "VTW0000013_NANYA",
+    "AppleVendorCode": "004841M",
+    "UpdateTimestamp": "06/03/2016"
+  },
+  {
+    "VendorName": "Foxconn",
+    "VendorNo": "VTW0000013_FOXCONN",
+    "AppleVendorCode": "000295M",
+    "UpdateTimestamp": "06/03/2016"
+  },
+  {
+    "VendorName": "Compeq",
+    "VendorNo": "VTW0000013_COMPEQ",
+    "AppleVendorCode": "001357M",
+    "UpdateTimestamp": "06/03/2016"
+  },
+  {
+    "VendorName": "Dynapack",
+    "VendorNo": "VTW0000013_DYNAPACK",
+    "AppleVendorCode": "003997M",
+    "UpdateTimestamp": "06/03/2016"
+  },
+  {
+    "VendorName": "Intel",
+    "VendorNo": "VTW0000013_INTEL",
+    "AppleVendorCode": "000382M",
+    "UpdateTimestamp": "06/03/2016"
+  },
+  {
+    "VendorName": "JABIL",
+    "VendorNo": "VTW0000013_JABIL",
+    "AppleVendorCode": "002112M",
+    "UpdateTimestamp": "06/03/2016"
+  },
+  {
+    "VendorName": "LG",
+    "VendorNo": "VTW0000013_LG",
+    "AppleVendorCode": "001625M",
+    "UpdateTimestamp": "06/03/2016"
+  },
+  {
+    "VendorName": "Micron",
+    "VendorNo": "VTW0000013_MICRON",
+    "AppleVendorCode": "000506M",
+    "UpdateTimestamp": "06/03/2016"
+  },
+  {
+    "VendorName": "Sky Hynix",
+    "VendorNo": "VTW0000013_SK HYNIX",
+    "AppleVendorCode": "001161M",
+    "UpdateTimestamp": "06/03/2016"
+  },
+  {
+    "VendorName": "OPC",
+    "VendorNo": "VTW0000013_OPC",
+    "AppleVendorCode": "001733M",
+    "UpdateTimestamp": "06/03/2016"
+  },
+  {
+    "VendorName": "IR",
+    "VendorNo": "VTW0011136_IR",
+    "AppleVendorCode": "000386M",
+    "UpdateTimestamp": "07/12/2016"
+  },
+  {
+    "VendorName": "WT MICROELECTRONICS",
+    "VendorNo": "VWM121_FAIRCHILD",
+    "AppleVendorCode": "002195M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "WT MICROELECTRONICS",
+    "VendorNo": "VWM121_ST",
+    "AppleVendorCode": "000729M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "WUJIANG SCREWTECH PRECISION",
+    "VendorNo": "V07239",
+    "AppleVendorCode": "005083M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "WUJIANG SCREWTECH PRECISION",
+    "VendorNo": "VCN0015898",
+    "AppleVendorCode": "005083M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Wanshih",
+    "VendorNo": "VSW151",
+    "AppleVendorCode": "004305M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "YAGEO",
+    "VendorNo": 6174789601,
+    "AppleVendorCode": "001852M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "YAGEO",
+    "VendorNo": "VCN0018730",
+    "AppleVendorCode": "001852M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "YAGEO",
+    "VendorNo": "VYU001",
+    "AppleVendorCode": "003806M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "YAGEO",
+    "VendorNo": "VYU001",
+    "AppleVendorCode": "001852M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "YAGEO",
+    "VendorNo": 6174789601,
+    "AppleVendorCode": "003806M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "YAGEO",
+    "VendorNo": "VCN0018730",
+    "AppleVendorCode": "003806M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "YEL",
+    "VendorNo": "VYE011_AVX",
+    "AppleVendorCode": "000073M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "YEL",
+    "VendorNo": "VYE011_CYNTEC",
+    "AppleVendorCode": "003226M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "YEL",
+    "VendorNo": "VYE011_AEM",
+    "AppleVendorCode": "004293M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "YOMURA TECHNOLOGIES",
+    "VendorNo": 7222082171,
+    "AppleVendorCode": "003360M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "YOSUN INDUSTRIAL CORP.",
+    "VendorNo": "V04W61_PARADE",
+    "AppleVendorCode": "001240M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "YUAN CHEN",
+    "VendorNo": "VCN0020158",
+    "AppleVendorCode": "004338M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "YUAN CHEN",
+    "VendorNo": "VKY101",
+    "AppleVendorCode": "004338M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "YUAN CHEN",
+    "VendorNo": 7266685951,
+    "AppleVendorCode": "004338M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Yomura",
+    "VendorNo": "VYT021",
+    "AppleVendorCode": "003360M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "ZHEN DING TECHNOLOGY HOLDING LTD",
+    "VendorNo": "VVG0000003",
+    "AppleVendorCode": "004558M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "iPaper",
+    "VendorNo": "VIP261",
+    "AppleVendorCode": "003954M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "R＿＿R＿＿Donnelley＿＿&＿＿Sons＿＿( RRD )",
+    "VendorNo": "VCN0013956",
+    "AppleVendorCode": "003892M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "R＿＿R＿＿Donnelley＿＿&＿＿Sons＿＿( RRD )",
+    "VendorNo": 7946434611,
+    "AppleVendorCode": "003892M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "Silego",
+    "VendorNo": "VTW0011133",
+    "AppleVendorCode": "000386M",
+    "UpdateTimestamp": "06/06/2016"
+  },
+  {
+    "VendorName": "DELTA",
+    "VendorNo": "VTW0011488",
+    "AppleVendorCode": "000221M",
+    "UpdateTimestamp": "06/07/2016"
+  },
+  {
+    "VendorName": "Diods",
+    "VendorNo": "VHK0010299",
+    "AppleVendorCode": "002358M",
+    "UpdateTimestamp": "11/15/2016"
+  },
+  {
+    "VendorName": "Nanya Technology Corporation",
+    "VendorNo": "VTWTEST",
+    "AppleVendorCode": "003514M",
+    "UpdateTimestamp": "05/11/2017"
+  },
+  {
+    "VendorName": "Catcher",
+    "VendorNo": "VCN0022693",
+    "AppleVendorCode": "003241M",
+    "UpdateTimestamp": "06/01/2016"
+  },
+  {
+    "VendorName": "Merry",
+    "VendorNo": "VTW0011617",
+    "AppleVendorCode": "004878M",
+    "UpdateTimestamp": "06/01/2016"
+  },
+  {
+    "VendorName": "NANYA",
+    "VendorNo": "VUS0010120_NANYA-1",
+    "AppleVendorCode": "004841M",
+    "UpdateTimestamp": "07/25/2016"
+  },
+  {
+    "VendorName": "Jabil",
+    "VendorNo": "VTW0000013_JABIL",
+    "AppleVendorCode": "004563M",
+    "UpdateTimestamp": "06/20/2016"
+  },
+  {
+    "VendorName": "TI",
+    "VendorNo": "VTW0011111",
+    "AppleVendorCode": "000822M",
+    "UpdateTimestamp": "03/15/2017"
+  },
+  {
+    "VendorName": "Infineon",
+    "VendorNo": "VTW0011136_INFINEON",
+    "AppleVendorCode": "000386M",
+    "UpdateTimestamp": "08/25/2016"
+  },
+  {
+    "VendorName": "BOE",
+    "VendorNo": "VUS0010120_JDF-CD",
+    "AppleVendorCode": "005434M",
+    "UpdateTimestamp": "11/28/2016"
+  },
+  {
+    "VendorName": "ZDT",
+    "VendorNo": "VHK0000022",
+    "AppleVendorCode": "004558M",
+    "UpdateTimestamp": "01/12/2017"
+  },
+  {
+    "VendorName": "Honhai",
+    "VendorNo": "VHK0000022",
+    "AppleVendorCode": "000295M",
+    "UpdateTimestamp": "01/13/2017"
+  },
+  {
+    "VendorName": "Jabil",
+    "VendorNo": "VTW0000013",
+    "AppleVendorCode": "002112M",
+    "UpdateTimestamp": "06/01/2016"
+  },
+  {
+    "VendorName": "Sunon",
+    "VendorNo": "VTW0011498",
+    "AppleVendorCode": "003000M",
+    "UpdateTimestamp": "06/01/2016"
+  },
+  {
+    "VendorName": "Samsung",
+    "VendorNo": "VTW0000013_SAMSUNG",
+    "AppleVendorCode": "000695M",
+    "UpdateTimestamp": "06/10/2016"
+  },
+  {
+    "VendorName": "On",
+    "VendorNo": "VTW0011133",
+    "AppleVendorCode": "002360M",
+    "UpdateTimestamp": "06/10/2016"
+  },
+  {
+    "VendorName": "Compeq",
+    "VendorNo": "VTW0011372",
+    "AppleVendorCode": "001357M",
+    "UpdateTimestamp": "06/10/2016"
+  },
+  {
+    "VendorName": "Honhai",
+    "VendorNo": "VCN0000047",
+    "AppleVendorCode": "000295M",
+    "UpdateTimestamp": "06/10/2016"
+  },
+  {
+    "VendorName": "Jabil",
+    "VendorNo": "VCN0024119",
+    "AppleVendorCode": "002112M",
+    "UpdateTimestamp": "06/10/2016"
+  },
+  {
+    "VendorName": "ROE",
+    "VendorNo": "VCN0025556",
+    "AppleVendorCode": "004751M",
+    "UpdateTimestamp": "06/10/2016"
+  },
+  {
+    "VendorName": "Toyo",
+    "VendorNo": "VHK0011191",
+    "AppleVendorCode": "003254M",
+    "UpdateTimestamp": "06/10/2016"
+  },
+  {
+    "VendorName": "Merry",
+    "VendorNo": "VTW0011618",
+    "AppleVendorCode": "004878M",
+    "UpdateTimestamp": "06/10/2016"
+  },
+  {
+    "VendorName": "ROE",
+    "VendorNo": "VVG0010076",
+    "AppleVendorCode": "004751M",
+    "UpdateTimestamp": "06/10/2016"
+  },
+  {
+    "VendorName": "Vishay",
+    "VendorNo": "VTW0011111",
+    "AppleVendorCode": "000743M",
+    "UpdateTimestamp": "02/23/2018"
+  },
+  {
+    "VendorName": "Wistron",
+    "VendorNo": "VGB0010022",
+    "AppleVendorCode": "003699M",
+    "UpdateTimestamp": "07/12/2018"
+  },
+  {
+    "VendorName": "Samsung",
+    "VendorNo": "VCN0016400",
+    "AppleVendorCode": "000931M",
+    "UpdateTimestamp": "07/20/2018"
+  },
+  {
+    "VendorName": "IC",
+    "VendorNo": "VHK0010546",
+    "AppleVendorCode": "000387M",
+    "UpdateTimestamp": "08/06/2018"
+  },
+  {
+    "VendorName": "LOTES",
+    "VendorNo": "VHK0010697",
+    "AppleVendorCode": "005290M",
+    "UpdateTimestamp": "08/27/2018"
+  },
+  {
+    "VendorName": "LOTES",
+    "VendorNo": "VTW0011313",
+    "AppleVendorCode": "005290M",
+    "UpdateTimestamp": "08/27/2018"
+  },
+  {
+    "VendorName": "LYSUZ",
+    "VendorNo": "VHK0011367",
+    "AppleVendorCode": "004604M",
+    "UpdateTimestamp": "08/28/2018"
+  },
+  {
+    "VendorName": "Panel",
+    "VendorNo": "VHK0011366",
+    "AppleVendorCode": "004604M",
+    "UpdateTimestamp": "09/04/2018"
+  },
+  {
+    "VendorName": "Garuda",
+    "VendorNo": "VHK0000022",
+    "AppleVendorCode": "005684M",
+    "UpdateTimestamp": "08/30/2018"
+  },
+  {
+    "VendorName": "Pioneer",
+    "VendorNo": "VWS0010007",
+    "AppleVendorCode": "004294M",
+    "UpdateTimestamp": "09/13/2018"
+  },
+  {
+    "VendorName": "Nidec",
+    "VendorNo": "VHK0010406",
+    "AppleVendorCode": "001402M",
+    "UpdateTimestamp": "08/31/2018"
+  },
+  {
+    "VendorName": "Flex",
+    "VendorNo": "VHK0010627",
+    "AppleVendorCode": "004328M",
+    "UpdateTimestamp": "08/31/2018"
+  },
+  {
+    "VendorName": "Anjie",
+    "VendorNo": "VCN0022247",
+    "AppleVendorCode": "004533M",
+    "UpdateTimestamp": "08/31/2018"
+  },
+  {
+    "VendorName": "FORBETTER",
+    "VendorNo": "VCN0029169",
+    "AppleVendorCode": "005734M",
+    "UpdateTimestamp": "08/31/2018"
+  },
+  {
+    "VendorName": "Desay",
+    "VendorNo": "VCN0021707",
+    "AppleVendorCode": "005050M",
+    "UpdateTimestamp": "09/03/2018"
+  },
+  {
+    "VendorName": "Ri Teng",
+    "VendorNo": "VWS0010034",
+    "AppleVendorCode": "004309M",
+    "UpdateTimestamp": "09/03/2018"
+  },
+  {
+    "VendorName": "Dialog",
+    "VendorNo": "VDE0010010",
+    "AppleVendorCode": "001462M",
+    "UpdateTimestamp": "09/04/2018"
+  },
+  {
+    "VendorName": "Kersen VMI",
+    "VendorNo": "VCN0019072",
+    "AppleVendorCode": "004913M",
+    "UpdateTimestamp": "09/04/2018"
+  },
+  {
+    "VendorName": "DEREN",
+    "VendorNo": "VCN0015345",
+    "AppleVendorCode": "005403M",
+    "UpdateTimestamp": "09/04/2018"
+  },
+  {
+    "VendorName": "Samsung",
+    "VendorNo": "VCN0030205",
+    "AppleVendorCode": "000931M",
+    "UpdateTimestamp": "09/04/2018"
+  },
+  {
+    "VendorName": "Vishay",
+    "VendorNo": "VTW0011111",
+    "AppleVendorCode": "000544M",
+    "UpdateTimestamp": "03/20/2018"
+  },
+  {
+    "VendorName": "Murata",
+    "VendorNo": "VCN0018917",
+    "AppleVendorCode": "000536M",
+    "UpdateTimestamp": "06/25/2018"
+  },
+  {
+    "VendorName": "SAMSUNG PACIFIC",
+    "VendorNo": "VTW0000013_SAMSUNG",
+    "AppleVendorCode": "000931M",
+    "UpdateTimestamp": "06/25/2018"
+  },
+  {
+    "VendorName": "ASE",
+    "VendorNo": "VUS0010120_ASE",
+    "AppleVendorCode": "005158M",
+    "UpdateTimestamp": "09/05/2018"
+  },
+  {
+    "VendorName": "Unimicron",
+    "VendorNo": "VTW0011415",
+    "AppleVendorCode": "003435M",
+    "UpdateTimestamp": "09/05/2018"
+  },
+  {
+    "VendorName": "Unitech",
+    "VendorNo": "VTW0011358",
+    "AppleVendorCode": "001801M",
+    "UpdateTimestamp": "09/05/2018"
+  },
+  {
+    "VendorName": "CTC",
+    "VendorNo": "deleted",
+    "AppleVendorCode": "003241M",
+    "UpdateTimestamp": "09/06/2018"
+  },
+  {
+    "VendorName": "Anjie",
+    "VendorNo": "del",
+    "AppleVendorCode": "004533M",
+    "UpdateTimestamp": "09/11/2018"
+  },
+  {
+    "VendorName": "ASE",
+    "VendorNo": "VUS0010120_USI",
+    "AppleVendorCode": "005158M",
+    "UpdateTimestamp": "09/19/2018"
+  },
+  {
+    "VendorName": "TOSHIBA",
+    "VendorNo": "VUS0010120_TOSHIBA",
+    "AppleVendorCode": "004723M",
+    "UpdateTimestamp": "09/05/2018"
+  },
+  {
+    "VendorName": "DIALOG",
+    "VendorNo": "VTW0000013_DIALOG",
+    "AppleVendorCode": "001462M",
+    "UpdateTimestamp": "09/05/2018"
+  },
+  {
+    "VendorName": "USI",
+    "VendorNo": "VTW0000013_USI",
+    "AppleVendorCode": "002261M",
+    "UpdateTimestamp": "09/05/2018"
+  },
+  {
+    "VendorName": "ON",
+    "VendorNo": "VTW0011224",
+    "AppleVendorCode": "002360M",
+    "UpdateTimestamp": "09/05/2018"
+  },
+  {
+    "VendorName": "TTM",
+    "VendorNo": "VUS0010120_TTM",
+    "AppleVendorCode": "001733M",
+    "UpdateTimestamp": "09/05/2018"
+  },
+  {
+    "VendorName": "TTM",
+    "VendorNo": "VTW0000013_TTM",
+    "AppleVendorCode": "001733M",
+    "UpdateTimestamp": "09/05/2018"
+  },
+  {
+    "VendorName": "KEMET",
+    "VendorNo": "VSG0010100",
+    "AppleVendorCode": "000423M",
+    "UpdateTimestamp": "10/31/2018"
+  },
+  {
+    "VendorName": "GIS",
+    "VendorNo": "VTW0000013_GIS",
+    "AppleVendorCode": "005124M",
+    "UpdateTimestamp": "03/28/2019"
+  },
+  {
+    "VendorName": "NEXPERIA",
+    "VendorNo": "VTW0011136_NEXPERIA",
+    "AppleVendorCode": "005674M",
+    "UpdateTimestamp": "04/02/2019"
+  },
+  {
+    "VendorName": "NXP",
+    "VendorNo": "VTW0011136_NXP",
+    "AppleVendorCode": "004295M",
+    "UpdateTimestamp": ""
+  },
+  {
+    "VendorName": "GUOGUANG ELECTRIC CO., LTD",
+    "VendorNo": "VCN0024077",
+    "AppleVendorCode": "005220M",
+    "UpdateTimestamp": "09/04/2018"
+  },
+  {
+    "VendorName": "TOSHIBA",
+    "VendorNo": "VTW0000013_TOSHIBA",
+    "AppleVendorCode": "004723M",
+    "UpdateTimestamp": "09/05/2018"
+  },
+  {
+    "VendorName": "Unimicron",
+    "VendorNo": "VTW0000013_UNIMICRON",
+    "AppleVendorCode": "003435M",
+    "UpdateTimestamp": "09/05/2018"
+  },
+  {
+    "VendorName": "Simplo",
+    "VendorNo": "VCN0018704",
+    "AppleVendorCode": "004031M",
+    "UpdateTimestamp": "09/05/2018"
+  },
+  {
+    "VendorName": "M-flex",
+    "VendorNo": "000",
+    "AppleVendorCode": "000",
+    "UpdateTimestamp": "09/05/2018"
+  },
+  {
+    "VendorName": "UNIMICRON",
+    "VendorNo": "VUS0010120_UNIMICRON",
+    "AppleVendorCode": "003435M",
+    "UpdateTimestamp": "09/05/2018"
+  },
+  {
+    "VendorName": "Nanya",
+    "VendorNo": "VTW0000013_NANYA",
+    "AppleVendorCode": "003514M",
+    "UpdateTimestamp": "03/18/2019"
+  },
+  {
+    "VendorName": "JSCC",
+    "VendorNo": "VTW0000013_SANDISK",
+    "AppleVendorCode": "005779M",
+    "UpdateTimestamp": "04/23/2019"
+  },
+  {
+    "VendorName": "SANDISK",
+    "VendorNo": "VTW0000013_SANDISK",
+    "AppleVendorCode": "003967M",
+    "UpdateTimestamp": "09/05/2018"
+  },
+  {
+    "VendorName": "SAMSUNG",
+    "VendorNo": "VUS0010120_SAMSUNG",
+    "AppleVendorCode": "000695M",
+    "UpdateTimestamp": "09/05/2018"
+  },
+  {
+    "VendorName": "Foxconn",
+    "VendorNo": "VCN0000143",
+    "AppleVendorCode": "000295M",
+    "UpdateTimestamp": "09/05/2018"
+  },
+  {
+    "VendorName": "SHENZHEN EVERWIN PRECISION",
+    "VendorNo": "VCN0018704",
+    "AppleVendorCode": "005211M",
+    "UpdateTimestamp": "09/05/2018"
+  },
+  {
+    "VendorName": "Catcher Technology Company",
+    "VendorNo": "VCN0031024",
+    "AppleVendorCode": "003241M",
+    "UpdateTimestamp": "09/05/2018"
+  },
+  {
+    "VendorName": "Simplo",
+    "VendorNo": "VTW0000013_SIMPLO",
+    "AppleVendorCode": "004031M",
+    "UpdateTimestamp": "09/05/2018"
+  },
+  {
+    "VendorName": "Sharp",
+    "VendorNo": "VTW0000013_SHARP",
+    "AppleVendorCode": "000730M",
+    "UpdateTimestamp": "09/05/2018"
+  },
+  {
+    "VendorName": "Sharp VMI",
+    "VendorNo": "VIE0010018",
+    "AppleVendorCode": "000730M",
+    "UpdateTimestamp": "11/09/2018"
+  },
+  {
+    "VendorName": "AMS",
+    "VendorNo": "VTW0011136_AMS",
+    "AppleVendorCode": "001263M",
+    "UpdateTimestamp": "03/27/2019"
+  },
+  {
+    "VendorName": "TI",
+    "VendorNo": "VTW0000013_TI",
+    "AppleVendorCode": "000822M",
+    "UpdateTimestamp": "03/28/2019"
+  },
+  {
+    "VendorName": "Simplo",
+    "VendorNo": "VUS0010120_SIMPLO-A",
+    "AppleVendorCode": "004031M",
+    "UpdateTimestamp": "09/07/2018"
+  },
+  {
+    "VendorName": "Foxconn",
+    "VendorNo": "TOE007",
+    "AppleVendorCode": "000295M",
+    "UpdateTimestamp": "03/27/2019"
+  },
+  {
+    "VendorName": "AMS",
+    "VendorNo": "VTW0000013_HEPTAGON",
+    "AppleVendorCode": "001263M",
+    "UpdateTimestamp": "03/27/2019"
+  },
+  {
+    "VendorName": "CCTC",
+    "VendorNo": "VHK0010651",
+    "AppleVendorCode": "004803M",
+    "UpdateTimestamp": "03/28/2019"
+  },
+  {
+    "VendorName": "AAC",
+    "VendorNo": "VSG0010069",
+    "AppleVendorCode": "004441M",
+    "UpdateTimestamp": "09/05/2018"
+  },
+  {
+    "VendorName": "UNITECH",
+    "VendorNo": "VTW0000013_UNITECH",
+    "AppleVendorCode": "001801M",
+    "UpdateTimestamp": "09/05/2018"
+  },
+  {
+    "VendorName": "Sunway",
+    "VendorNo": "VCN0010017",
+    "AppleVendorCode": "005173M",
+    "UpdateTimestamp": "09/05/2018"
+  },
+  {
+    "VendorName": "GUOGUANG ELECTRIC CO., LTD",
+    "VendorNo": "VHK0011246",
+    "AppleVendorCode": "005220M",
+    "UpdateTimestamp": "09/05/2018"
+  },
+  {
+    "VendorName": "DESAY",
+    "VendorNo": "VUS0010120_DESAY",
+    "AppleVendorCode": "005050M",
+    "UpdateTimestamp": "09/05/2018"
+  },
+  {
+    "VendorName": "UNITECH",
+    "VendorNo": "VUS0010120_UNITECH",
+    "AppleVendorCode": "001801M",
+    "UpdateTimestamp": "09/05/2018"
+  },
+  {
+    "VendorName": "TSMC",
+    "VendorNo": 2330938711,
+    "AppleVendorCode": "002110M",
+    "UpdateTimestamp": "09/07/2018"
+  },
+  {
+    "VendorName": "JSCC",
+    "VendorNo": "VTW0000013_SAMSUNG",
+    "AppleVendorCode": "005779M",
+    "UpdateTimestamp": "04/23/2019"
+  },
+  {
+    "VendorName": "Flexium 2",
+    "VendorNo": "VTW0011062",
+    "AppleVendorCode": "004398M",
+    "UpdateTimestamp": "04/22/2019"
+  },
+  {
+    "VendorName": "TSMC",
+    "VendorNo": "VTW0000013_TSMC",
+    "AppleVendorCode": "002110M",
+    "UpdateTimestamp": "09/05/2018"
+  },
+  {
+    "VendorName": "Alpha and Omega",
+    "VendorNo": "VTW0011443",
+    "AppleVendorCode": "004265M",
+    "UpdateTimestamp": "09/05/2018"
+  },
+  {
+    "VendorName": "Simplo",
+    "VendorNo": "VUS0010120",
+    "AppleVendorCode": "004031M",
+    "UpdateTimestamp": "09/05/2018"
+  },
+  {
+    "VendorName": "Flexium",
+    "VendorNo": "VTW0011062",
+    "AppleVendorCode": "005055M",
+    "UpdateTimestamp": "09/05/2018"
+  },
+  {
+    "VendorName": "DESAY",
+    "VendorNo": "VTW0000013_DESAY",
+    "AppleVendorCode": "005050M",
+    "UpdateTimestamp": "09/05/2018"
+  },
+  {
+    "VendorName": "GIS",
+    "VendorNo": "VUS0010120_GIS",
+    "AppleVendorCode": "005124M",
+    "UpdateTimestamp": "03/20/2019"
+  },
+  {
+    "VendorName": "ASE",
+    "VendorNo": "VTW0000013_ASE",
+    "AppleVendorCode": "005158M",
+    "UpdateTimestamp": "09/05/2018"
+  },
+  {
+    "VendorName": "JSCC",
+    "VendorNo": "VTW0000013_SK HYNIX",
+    "AppleVendorCode": "005779M",
+    "UpdateTimestamp": "04/23/2019"
+  },
+  {
+    "VendorName": "Pioneer",
+    "VendorNo": "VWS0010007",
+    "AppleVendorCode": "002514M",
+    "UpdateTimestamp": "04/16/2019"
+  },
+  {
+    "VendorName": "Marian (Suzhou)",
+    "VendorNo": "VUS0010416",
+    "AppleVendorCode": "004674M",
+    "UpdateTimestamp": "04/17/2019"
+  },
+  {
+    "VendorName": "Tripod",
+    "VendorNo": "VTW0000013_TRIPOD",
+    "AppleVendorCode": "002465M",
+    "UpdateTimestamp": "04/18/2019"
+  },
+  {
+    "VendorName": "Tripod",
+    "VendorNo": "VVG0010018",
+    "AppleVendorCode": "002465M",
+    "UpdateTimestamp": "04/18/2019"
+  },
+  {
+    "VendorName": "JSCC",
+    "VendorNo": "VTW0000013_TOSHIBA",
+    "AppleVendorCode": "005779M",
+    "UpdateTimestamp": "04/23/2019"
+  },
+  {
+    "VendorName": "DongShang BJ",
+    "VendorNo": "VCN0025076",
+    "AppleVendorCode": "005378M",
+    "UpdateTimestamp": "04/08/2019"
+  },
+  {
+    "VendorName": "Tong Da",
+    "VendorNo": "VHK0011392",
+    "AppleVendorCode": "005558M",
+    "UpdateTimestamp": "05/06/2019"
+  },
+  {
+    "VendorName": "SZS",
+    "VendorNo": "VTW0010693",
+    "AppleVendorCode": "004127M",
+    "UpdateTimestamp": "04/08/2019"
+  },
+  {
+    "VendorName": "Goertek",
+    "VendorNo": "VCN0022411",
+    "AppleVendorCode": "004797M",
+    "UpdateTimestamp": "04/26/2019"
+  },
+  {
+    "VendorName": "AMP",
+    "VendorNo": "VCN0020356",
+    "AppleVendorCode": "000049M",
+    "UpdateTimestamp": "04/08/2019"
+  }
+]

@@ -26,6 +26,8 @@ namespace sp_transfer
             InitializeComponent();
         }
 
+ 
+
         private void Button1_Click(object sender, EventArgs e)
         {
             //get file
@@ -114,12 +116,27 @@ namespace sp_transfer
             Wsheet.Application.DisplayAlerts = false;
             Wsheet.Application.AlertBeforeOverwriting = false;
         }
+
+        public class RootObject
+        {
+            public string VendorName { get; set; }
+            public object VendorNo { get; set; }
+            public string AppleVendorCode { get; set; }
+            public string UpdateTimestamp { get; set; }
+        }
+
+
         private void GetASC(){
             string ASCStr = System.IO.File.ReadAllText(@"../../ASC.txt");
             //Console.WriteLine(ASCStr);
-            JObject ASCObj = JObject.Parse(ASCStr);
-            Console.WriteLine(ASCObj);
 
+            //var result = JsonConvert.DeserializeObject<List<RootObject>>(ASCStr);            
+            //Console.WriteLine(result);
+
+            //JArray ASC_Ary = JArray.Parse(ASCStr);
+            //Console.WriteLine(ASC_Ary.ToString());
+            JObject ASC_Dict = JObject.Parse(ASCStr);
+            Console.WriteLine(ASC_Dict.ToString());
         }
     }
 }
