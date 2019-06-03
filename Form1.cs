@@ -7,13 +7,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Excel = Microsoft.Office.Interop.Excel;
 using System.Reflection;
 using System.IO;
 using System.Runtime.InteropServices;
 using System.Diagnostics;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
+using Excel = Microsoft.Office.Interop.Excel;
 
 
 
@@ -24,36 +24,42 @@ namespace sp_transfer
         public Form1()
         {
             InitializeComponent();
+            textBox1.TextAlign = HorizontalAlignment.Center;
+            textBox2.TextAlign = HorizontalAlignment.Center;
         }
 
- 
+        public class FilePath
+        {
+            public static string OEMFilePath = "";
+            public static string nightOwlFilePath = "";
+        }
 
         private void Button1_Click(object sender, EventArgs e)
         {
-            //get file
-            //getExcelFile();
-
-            Debug.WriteLine("Test2321213124");
             string ASCode = GetASC("TSMC");
             Console.WriteLine(ASCode);
 
-            getExcelFile();
+            if (FilePath.OEMFilePath == "" || FilePath.nightOwlFilePath == "")
+            {
+                MessageBox.Show("Please Choose file path", "Alert");
+                return;
+            } else {
+                getExcelFile();
+            }
         }
+       
 
         public static void getExcelFile()
         {
-
             //Create COM Objects. Create a COM object for everything that is referenced
             Excel.Application xlApp = new Excel.Application();
-            Excel.Workbook xlWorkbook = xlApp.Workbooks.Open(@"C:\APO\HHCD_BLDD2\Forecast.xlsx");
+            Excel.Workbook xlWorkbook = xlApp.Workbooks.Open(FilePath.OEMFilePath);
             Excel._Worksheet xlWorksheet = xlWorkbook.Sheets[1];
             Excel.Range xlRange = xlWorksheet.UsedRange;
 
             int rowCount = xlRange.Rows.Count;
             int colCount = xlRange.Columns.Count;
 
-
-            Console.Write(@"test");
             //iterate over the rows and columns and print to the console as it appears in the file
             //excel is not zero based!!
             for (int i = 1; i <= rowCount; i++)
@@ -67,6 +73,14 @@ namespace sp_transfer
                     //write the value to the console
                     if (xlRange.Cells[i, j] != null && xlRange.Cells[i, j].Value2 != null)
                         Console.Write(xlRange.Cells[i, j].Value2.ToString() + "\t");
+                        // Get Date of SP date to confirm is correct withlatest SP templelte or not.
+
+                        //Start to collect value after Demand to rowCount.
+                        //Key : supplierName/Date
+                        //user list as array.
+
+
+
                 }
             }
 
@@ -98,11 +112,11 @@ namespace sp_transfer
             Excel.Application App = new Excel.Application();
 
             //取得欲寫入的檔案路徑
-            string strPath = "C:\\APO\\HHCD_BLDD2\\Forecasr.xlsx";
-            Excel.Workbook Wbook = App.Workbooks.Open(strPath);
+            //string strPath = "C:\\APO\\HHCD_BLDD2\\Forecasr.xlsx";
+            Excel.Workbook Wbook = App.Workbooks.Open(FilePath.OEMFilePath);
 
             //將欲修改的檔案屬性設為非唯讀(Normal)，若寫入檔案為唯讀，則會無法寫入
-            System.IO.FileInfo xlsAttribute = new FileInfo(strPath);
+            System.IO.FileInfo xlsAttribute = new FileInfo(FilePath.OEMFilePath);
             xlsAttribute.Attributes = FileAttributes.Normal;
 
             //取得batchItem的工作表
@@ -120,6 +134,8 @@ namespace sp_transfer
             Wsheet.Application.AlertBeforeOverwriting = false;
         }
 
+
+        //Set Gatter AAnd Setter for ASC file
         public class RootObject
         {
             public string VendorName { get; set; }
@@ -128,7 +144,7 @@ namespace sp_transfer
             public string UpdateTimestamp { get; set; }
         }
 
-
+        //User Link and Lambda to search Json content.
         private string GetASC(string supplierName)
         {
             string strTsmc = supplierName;
@@ -149,6 +165,36 @@ namespace sp_transfer
         private void Form1_Load(object sender, EventArgs e)
         {
             
+        }
+
+        private void Button2_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog dialog = new OpenFileDialog();
+            dialog.Multiselect = false;
+            dialog.Title = "Choose Excel File...";
+            dialog.Filter = "Excel File(*.xls, *.xlsx)|*.xls*";
+            if (dialog.ShowDialog() == System.Windows.Forms.DialogResult.OK)
+            {
+                string file = dialog.FileName;
+                Console.WriteLine(file);
+                textBox1.Text = file;
+            }
+            FilePath.OEMFilePath = textBox1.Text;
+        }
+
+        private void Button3_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog dialog = new OpenFileDialog();
+            dialog.Multiselect = false;
+            dialog.Title = "Choose Excel File...";
+            dialog.Filter = "Excel File(*.xls, *.xlsx)|*.xls*";
+            if (dialog.ShowDialog() == System.Windows.Forms.DialogResult.OK)
+            {
+                string file = dialog.FileName;
+                Console.WriteLine(file);
+                textBox2.Text = file;
+            }
+            FilePath.nightOwlFilePath = textBox2.Text;
         }
     }
 }
