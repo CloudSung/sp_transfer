@@ -36,6 +36,8 @@ namespace sp_transfer
             Debug.WriteLine("Test2321213124");
             string ASCode = GetASC("TSMC");
             Console.WriteLine(ASCode);
+
+            getExcelFile();
         }
 
         public static void getExcelFile()
