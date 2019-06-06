@@ -138,10 +138,17 @@ namespace sp_transfer
         //Set Gatter AAnd Setter for ASC file
         public class RootObject
         {
+            //ASC Transfer
             public string VendorName { get; set; }
             public string VendorNo { get; set; }
             public string AppleVendorCode { get; set; }
             public string UpdateTimestamp { get; set; }
+
+            //Transfer HHLH Excel Table to JSON, Setting Object Key.
+            //Use JSON.net refer : https://dotblogs.com.tw/shadow/2012/08/16/74099
+            
+
+
         }
 
         //User Link and Lambda to search Json content.
