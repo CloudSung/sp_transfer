@@ -24,8 +24,6 @@ namespace sp_transfer
         public Form1()
         {
             InitializeComponent();
-            textBox1.TextAlign = HorizontalAlignment.Center;
-            textBox2.TextAlign = HorizontalAlignment.Center;
         }
 
         public class FilePath
@@ -77,7 +75,7 @@ namespace sp_transfer
 
                         //Start to collect value after Demand to rowCount.
                         //Key : supplierName/Date
-                        //user list as array.
+                        //USse list as array.
 
 
 
@@ -112,7 +110,6 @@ namespace sp_transfer
             Excel.Application App = new Excel.Application();
 
             //取得欲寫入的檔案路徑
-            //string strPath = "C:\\APO\\HHCD_BLDD2\\Forecasr.xlsx";
             Excel.Workbook Wbook = App.Workbooks.Open(FilePath.OEMFilePath);
 
             //將欲修改的檔案屬性設為非唯讀(Normal)，若寫入檔案為唯讀，則會無法寫入
@@ -162,10 +159,7 @@ namespace sp_transfer
 
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            
-        }
+
 
         private void Button2_Click(object sender, EventArgs e)
         {
