@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
@@ -30,6 +31,10 @@ namespace sp_transfer
         {
             public static string OEMFilePath = "";
             public static string nightOwlFilePath = "";
+            //Declare arraylistt to a globed arraylist.
+            //Data stratuct is use Arraylist add a new list as a array object.
+            public static ArrayList updateList = new ArrayList();
+           
         }
 
         private void Button1_Click(object sender, EventArgs e)
@@ -60,23 +65,53 @@ namespace sp_transfer
 
             //iterate over the rows and columns and print to the console as it appears in the file
             //excel is not zero based!!
+
+            bool isPrint = false;
             for (int i = 1; i <= rowCount; i++)
             {
                 for (int j = 1; j <= colCount; j++)
                 {
                     //new line
-                    if (j == 1)
+                    if (j == 1) {
                         Console.Write("\r\n");
+                        isPrint = false;
+                    }
 
                     //write the value to the console
-                    if (xlRange.Cells[i, j] != null && xlRange.Cells[i, j].Value2 != null)
-                        Console.Write(xlRange.Cells[i, j].Value2.ToString() + "\t");
-                        // Get Date of SP date to confirm is correct withlatest SP templelte or not.
+                    if (xlRange.Cells[i, j] != null && xlRange.Cells[i, j].Value2 != null) {
+                        if (xlRange.Cells[i, j].Value2.ToString() == "Date")
+                        {
+                            isPrint = true;
+
+                            //RootObject root = new RootObject();
+                            //root.Date = xlRange.Cells[i, j].Value2.ToString();
+                            //root.APN = "00001";
+                            //root.AppleVendorCode = "111111M";
+                            //root.Deamon = "12345";
+                            ////Console.Write(xlRange.Cells[i, j].Value2.ToString() + "\t");
+
+                            ////物件序列化
+                            //string strJson = JsonConvert.SerializeObject(root, Formatting.Indented);
+                            ////輸出結果
+                            //Console.Write(strJson);
+                        }
+
+                        if (isPrint)
+                            Console.Write(xlRange.Cells[i, j].Value2.ToString() + "\t");
+                    }
+
+                        
+                    // Get Date of SP date to confirm is correct withlatest SP templelte or not.
 
                         //Start to collect value after Demand to rowCount.
                         //Key : supplierName/Date
                         //USse list as array.
 
+
+
+                    //test to print out which value i need
+
+                        
 
 
                 }
@@ -135,10 +170,21 @@ namespace sp_transfer
         //Set Gatter AAnd Setter for ASC file
         public class RootObject
         {
+            //ASC Transfer
             public string VendorName { get; set; }
             public string VendorNo { get; set; }
             public string AppleVendorCode { get; set; }
             public string UpdateTimestamp { get; set; }
+
+            //Transfer HHLH Excel Table to JSON, Setting Object Key.
+            //Use JSON.net refer : https://dotblogs.com.tw/shadow/2012/08/16/74099
+            public string SupplierName { get; set; }
+            public string APN { get; set; }
+            public string Date { get; set; }
+            public string Deamon { get; set; }
+            public string Site { get; set; }
+
+
         }
 
         //User Link and Lambda to search Json content.
