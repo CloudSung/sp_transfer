@@ -63,6 +63,9 @@ namespace sp_transfer
             int rowCount = xlRange.Rows.Count;
             int colCount = xlRange.Columns.Count;
 
+            List<string> dateList = new List<string>();
+
+
             //iterate over the rows and columns and print to the console as it appears in the file
             //excel is not zero based!!
 
@@ -73,49 +76,64 @@ namespace sp_transfer
                 {
                     //new line
                     if (j == 1) {
-                        Console.Write("\r\n");
+                        //Console.Write("\r\n");
                         isPrint = false;
                     }
 
                     //write the value to the console
-                    if (xlRange.Cells[i, j] != null && xlRange.Cells[i, j].Value2 != null) {
+                    if (xlRange.Cells[i, j] != null && xlRange.Cells[i, j].Value2 != null)
+                    {
                         if (xlRange.Cells[i, j].Value2.ToString() == "Date")
                         {
                             isPrint = true;
-
-                            //RootObject root = new RootObject();
-                            //root.Date = xlRange.Cells[i, j].Value2.ToString();
-                            //root.APN = "00001";
-                            //root.AppleVendorCode = "111111M";
-                            //root.Deamon = "12345";
-                            ////Console.Write(xlRange.Cells[i, j].Value2.ToString() + "\t");
-
-                            ////物件序列化
-                            //string strJson = JsonConvert.SerializeObject(root, Formatting.Indented);
-                            ////輸出結果
-                            //Console.Write(strJson);
+                        }
+                        if (isPrint)
+                        {
+                            if ((xlRange.Cells[i, j].Value2.ToString() != "Date"))
+                            {
+                                //Console.Write(xlRange.Cells[i, j].Value2.ToString() + "\t")
+                                foreach (string myStringList in dateList)
+                                {
+                                    if (myStringList != xlRange.Cells[i, j].Value2.ToString())
+                                    {
+                                        dateList.Add(xlRange.Cells[i, j].Value2.ToString());
+                                    }   
+                                }
+                            }  
                         }
 
-                        if (isPrint)
-                            Console.Write(xlRange.Cells[i, j].Value2.ToString() + "\t");
+
+                        //RootObject root = new RootObject();
+                        //root.Date = xlRange.Cells[i, j].Value2.ToString();
+                        //root.APN = "00001";
+                        //root.AppleVendorCode = "111111M";
+                        //root.Deamon = "12345";
+                        ////Console.Write(xlRange.Cells[i, j].Value2.ToString() + "\t");
+
+                        ////物件序列化
+                        //string strJson = JsonConvert.SerializeObject(root, Formatting.Indented);
+                        ////輸出結果
+                        //Console.Write(strJson);
+
                     }
 
-                        
+
                     // Get Date of SP date to confirm is correct withlatest SP templelte or not.
 
-                        //Start to collect value after Demand to rowCount.
-                        //Key : supplierName/Date
-                        //USse list as array.
+                    //Start to collect value after Demand to rowCount.
+                    //Key : supplierName/Date
+                    //USse list as array.
 
 
 
                     //test to print out which value i need
-
-                        
-
-
                 }
             }
+            foreach (string myStringList in dateList)
+            {
+                Console.WriteLine(myStringList);
+            }
+            Console.Write("Loading Finish.");
 
             //cleanup
             GC.Collect();
@@ -136,6 +154,7 @@ namespace sp_transfer
             //quit and release
             xlApp.Quit();
             Marshal.ReleaseComObject(xlApp);
+            
         }
 
 
@@ -175,6 +194,9 @@ namespace sp_transfer
             public string VendorNo { get; set; }
             public string AppleVendorCode { get; set; }
             public string UpdateTimestamp { get; set; }
+        }
+
+        public class transferToJson {
 
             //Transfer HHLH Excel Table to JSON, Setting Object Key.
             //Use JSON.net refer : https://dotblogs.com.tw/shadow/2012/08/16/74099
@@ -183,8 +205,6 @@ namespace sp_transfer
             public string Date { get; set; }
             public string Deamon { get; set; }
             public string Site { get; set; }
-
-
         }
 
         //User Link and Lambda to search Json content.
